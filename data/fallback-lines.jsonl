@@ -1,0 +1,14 @@
+{"data_label":"SYNTHETIC","order":"FB1","raw":"maggi 70g three boxes","qty":3,"unit":"case"}
+{"data_label":"SYNTHETIC","order":"FB1","raw":"parle g 10 wala - a dozen","qty":1,"unit":"dozen"}
+{"data_label":"SYNTHETIC","order":"FB1","raw":"colgate 100g five boxes","qty":5,"unit":"case"}
+{"data_label":"SYNTHETIC","order":"FB1","raw":"dettol soap 75g two dozen","qty":2,"unit":"dozen"}
+{"data_label":"SYNTHETIC","order":"FB1","raw":"red label 250g ten cartons","qty":10,"unit":"case"}
+{"data_label":"SYNTHETIC","order":"FB2","raw":"good day pista badam four ladi","qty":4,"unit":"strip"}
+{"data_label":"SYNTHETIC","order":"FB2","raw":"bru coffee 2g - fifteen strips","qty":15,"unit":"strip"}
+{"data_label":"SYNTHETIC","order":"FB2","raw":"clinic plus sachet one peti","qty":1,"unit":"case"}
+{"data_label":"SYNTHETIC","order":"FB2","raw":"harpic 500ml six pieces","qty":6,"unit":"pc"}
+{"data_label":"SYNTHETIC","order":"FB2","raw":"vim bar twelve nos","qty":12,"unit":"pc"}
+{"data_label":"SYNTHETIC","order":"FB3","raw":"maggi masala 70g dozen","qty":null,"unit":"dozen","note":"no number written: the guard must keep qty null (review)"}
+{"data_label":"SYNTHETIC","order":"FB3","raw":"tata salt 1kg twenty bags","qty":20,"unit":"case"}
+{"data_label":"SYNTHETIC","order":"FB3","raw":"fortune soyabean 1 ltr eight crates","qty":8,"unit":"case"}
+{"data_label":"SYNTHETIC","order":"FB3","raw":"surf excel 500g - thirty packets","qty":30,"unit":"pc"}

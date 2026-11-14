@@ -3,18 +3,22 @@ import type { ExtractedLine, IncomingOrder, OrderUnit, Sku } from "../types.ts";
 /** Stage 1 contract. Rules-based now; an LLM structured-output extractor can implement the same interface. */
 export interface LineExtractor {
   extract(order: IncomingOrder): Promise<ExtractedLine[]>;
+  /** Optional: extractors that call a paid model also report what it cost. */
+  extractDetailed?(order: IncomingOrder): Promise<{ lines: ExtractedLine[]; usage: ExtractionUsage }>;
 }
+export interface ExtractionUsage { requests: number; inputTokens: number; outputTokens: number; costUsd: number; llmLines: number }
+export const NO_EXTRACTION_USAGE: ExtractionUsage = { requests: 0, inputTokens: 0, outputTokens: 0, costUsd: 0, llmLines: 0 };
 
 const NUM_WORDS: Record<string, number> = {
   ek: 1, do: 2, teen: 3, char: 4, chaar: 4, paanch: 5, panch: 5, chhe: 6, che: 6, saat: 7, aath: 8, nau: 9, das: 10,
   gyarah: 11, barah: 12, bees: 20, pachees: 25, pachas: 50, aadha: 0.5, adha: 0.5, half: 0.5, dedh: 1.5, dhai: 2.5,
 };
-// Unit vocabulary -> canonical unit. "bori"/"crate" mapping to case is a distributor policy (see SPEC open questions).
-const UNIT_WORDS: Record<string, OrderUnit> = {
+// Unit vocabulary -> canonical unit. bori / bora / crate / bag = case is the distributor policy confirmed in milestone 3.
+export const UNIT_WORDS: Record<string, OrderUnit> = {
   peti: "case", pet: "case", petti: "case", ctn: "case", ctns: "case", carton: "case", cartons: "case", case: "case", cases: "case",
-  cs: "case", box: "case", boxes: "case", dabba: "case", dabbe: "case", crate: "case", crates: "case", bori: "case",
+  cs: "case", box: "case", boxes: "case", dabba: "case", dabbe: "case", crate: "case", crates: "case", bori: "case", bora: "case", bag: "case", bags: "case",
   dozen: "dozen", dzn: "dozen", doz: "dozen", darjan: "dozen", dz: "dozen",
-  pc: "pc", pcs: "pc", piece: "pc", pieces: "pc", nos: "pc", no: "pc", pkt: "pc", pkts: "pc", packet: "pc", packets: "pc", bag: "pc", bags: "pc",
+  pc: "pc", pcs: "pc", piece: "pc", pieces: "pc", nos: "pc", no: "pc", pkt: "pc", pkts: "pc", packet: "pc", packets: "pc",
   ladi: "strip", strip: "strip", strips: "strip",
 };
 const NUM = `(\\d+(?:\\.\\d+)?|${Object.keys(NUM_WORDS).join("|")})`;

@@ -1,0 +1,30 @@
+{
+  "_comment": "Runtime defaults (milestone 5). Env vars override: DEFAULT_UNIT, SHEETS_SPREADSHEET_ID, SHEETS_SHEET_NAME, LLM_FALLBACK_ENABLED, LLM_FALLBACK_MODEL, LLM_FALLBACK_TOKEN_CAP. No secrets here: keys come only from the environment.",
+  "units": {
+    "defaultUnitForBareNumber": "case"
+  },
+  "decision": {
+    "topK": 8,
+    "descStyle": "rich",
+    "targetPrecision": 0.98,
+    "minLexicalOverlap": 0.55
+  },
+  "sheets": {
+    "spreadsheetId": "",
+    "sheetName": "Orders",
+    "credentialsPathEnv": "GOOGLE_APPLICATION_CREDENTIALS"
+  },
+  "llmFallback": {
+    "enabled": true,
+    "model": "gpt-5-nano",
+    "inputPerMTokUsd": 0.05,
+    "outputPerMTokUsd": 0.40,
+    "tokenCap": 20000,
+    "maxOutputTokens": 600
+  },
+  "whatsappImport": {
+    "group": "burst",
+    "burstMinutes": 15,
+    "maxOrdersPerImport": 200
+  }
+}

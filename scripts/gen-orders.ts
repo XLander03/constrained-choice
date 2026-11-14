@@ -154,7 +154,7 @@ H("surf excel 1kg 2 peti\nsurf excel quick wash 1 peti\nrin bar 1 peti", ["hingl
   g("surf excel quick wash 1 peti", null, 1, "case", { out_of_catalog: true }),
   g("rin bar 1 peti", null, 1, "case", { ambiguous: true, acceptable_sku_ids: famSkus(F.find(f => f.brand === "Rin" && f.product === "Detergent Bar")!).map(s => s.id) })]);
 H("Ashirwad atta 10 kilo - 5 bags\ntata namak 2 bori\nfortune soyabean 1 ltr 1 peti", ["hinglish", "typo", "unknown_unit"], [
-  g("Ashirwad atta 10 kilo - 5 bags", find("Shudh Chakki Atta", 10).id, 5, "pc"),
+  g("Ashirwad atta 10 kilo - 5 bags", find("Shudh Chakki Atta", 10).id, 5, "case"),   // M3 policy: bag/bori/crate = case
   g("tata namak 2 bori", find("Salt", 1, "Iodised").id, 2, "case"),
   g("fortune soyabean 1 ltr 1 peti", find("Soya Health Refined Soyabean Oil", 1).id, 1, "case")]);
 H("same as last week + red label 250g 1 peti extra", ["hinglish", "repeat_order"], [

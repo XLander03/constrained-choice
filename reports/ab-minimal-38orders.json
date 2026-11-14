@@ -1,0 +1,227 @@
+{
+  "data_label": "SYNTHETIC data; adapter=openai",
+  "adapter": "replay:openai-decisions",
+  "top_k": 8,
+  "choice_description": "minimal",
+  "default_unit_for_bare_number": "case",
+  "orders": 38,
+  "orders_requested": 38,
+  "gold_lines": 163,
+  "budget": {
+    "cap_input_tokens": 200000,
+    "stopped_early": null
+  },
+  "extraction": {
+    "line_recall_pct": 100,
+    "spurious_lines": 0,
+    "qty_exact_pct": 100,
+    "unit_exact_pct": 100,
+    "unit_defaulted_lines": 28
+  },
+  "retrieval": {
+    "resolvable_lines": 143,
+    "recall_at_1_pct": 100,
+    "recall_at_5_pct": 100,
+    "recall_at_8_pct": 100
+  },
+  "decision_top1": {
+    "resolvable_accuracy_pct": 68.5,
+    "resolvable_answered_none_pct": 31.5,
+    "resolvable_wrong_sku_picks": 0,
+    "ooc_to_none_pct": 100,
+    "ambiguous_to_none_pct": 84.6,
+    "ambiguous_pick_in_acceptable_pct": 15.4
+  },
+  "threshold_fit": {
+    "split": "dev (even orders), lines passing hard rules",
+    "target_precision": 0.98,
+    "calibrator": "isotonic",
+    "dev_eligible_picks": 55,
+    "threshold": 0.5,
+    "precision": 1,
+    "coverage": 1
+  },
+  "at_threshold_test": {
+    "threshold": 0.5,
+    "lines": 79,
+    "coverage_pct": 54.4,
+    "auto_product_precision_pct": 100,
+    "auto_fully_correct_pct": 100,
+    "ambiguous_auto_leaks": 0,
+    "ooc_auto_leaks": 0,
+    "orders_fully_auto_and_correct_pct": 0,
+    "auto_lines": 43,
+    "auto_wrong": 0
+  },
+  "at_threshold_test_without_ambiguity_rule": {
+    "threshold": 0.5,
+    "lines": 79,
+    "coverage_pct": 55.7,
+    "auto_product_precision_pct": 97.7,
+    "auto_fully_correct_pct": 97.7,
+    "ambiguous_auto_leaks": 1,
+    "ooc_auto_leaks": 0,
+    "orders_fully_auto_and_correct_pct": 0,
+    "auto_lines": 44,
+    "auto_wrong": 1
+  },
+  "at_threshold_test_bare_numbers_to_review": {
+    "threshold": 0.5,
+    "lines": 79,
+    "coverage_pct": 49.4,
+    "auto_product_precision_pct": 100,
+    "auto_fully_correct_pct": 100,
+    "ambiguous_auto_leaks": 0,
+    "ooc_auto_leaks": 0,
+    "orders_fully_auto_and_correct_pct": 0,
+    "auto_lines": 39,
+    "auto_wrong": 0
+  },
+  "sweep_test_raw_confidence": [
+    {
+      "threshold": 0.3,
+      "lines": 79,
+      "coverage_pct": 54.4,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 0,
+      "auto_lines": 43,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.5,
+      "lines": 79,
+      "coverage_pct": 54.4,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 0,
+      "auto_lines": 43,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.7,
+      "lines": 79,
+      "coverage_pct": 51.9,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 0,
+      "auto_lines": 41,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.8,
+      "lines": 79,
+      "coverage_pct": 49.4,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 0,
+      "auto_lines": 39,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.9,
+      "lines": 79,
+      "coverage_pct": 44.3,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 0,
+      "auto_lines": 35,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.95,
+      "lines": 79,
+      "coverage_pct": 39.2,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 0,
+      "auto_lines": 31,
+      "auto_wrong": 0
+    }
+  ],
+  "cost": {
+    "requests": 38,
+    "input_tokens_total": 57796,
+    "usd_total": 0.00578,
+    "inr_total_at_88": 0.51,
+    "tokens_per_order": 1521,
+    "usd_per_order": 0.0001521,
+    "usd_per_1000_orders": 0.1521,
+    "inr_per_1000_orders_at_88": 13.38,
+    "basis": "OpenAI Decisions gpt-6-luna uncached input $0.10/1M tokens, output free"
+  },
+  "by_order_tag": {
+    "handwritten": {
+      "lines": 9,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 44.4
+    },
+    "hinglish": {
+      "lines": 151,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 70.9
+    },
+    "typo": {
+      "lines": 69,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 71
+    },
+    "abbreviation": {
+      "lines": 45,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 75.6
+    },
+    "hindi_number": {
+      "lines": 107,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 73.8
+    },
+    "unit_implicit": {
+      "lines": 93,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 73.1
+    },
+    "single_line": {
+      "lines": 3,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 33.3
+    },
+    "ambiguous": {
+      "lines": 51,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 70.6
+    },
+    "out_of_catalog": {
+      "lines": 29,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 75.9
+    }
+  },
+  "runtime_ms": 80,
+  "review_reasons": {
+    "none_of_these": 63,
+    "ok": 98,
+    "variant_ambiguous": 2
+  }
+}

@@ -37,6 +37,7 @@ export interface ExtractedLine {
   sizeHint: { value: number; unit: string } | null;  // "70g", "1 kg"
   priceHint: number | null;                           // "10 wala", "rs 10"
   extractor: "rules" | "llm";
+  unitDefaulted?: boolean;  // bare number: unit came from the distributor default (config), not the text
 }
 
 export interface Candidate {
@@ -70,13 +71,16 @@ export interface ResolvedLine {
   decision: LineDecision;
   calibratedConfidence: number;
   route: Route;
-  reason: string;           // why it went to review, e.g. "low_confidence", "none_of_these", "qty_missing"
+  reason: string;           // why it went to review, e.g. "low_confidence", "none_of_these", "qty_missing", "pack_size_ambiguous"
+  ambiguousWith?: string[]; // skuIds that all fit the line equally (pack size / variant not stated)
+  lexicalOverlap?: number | null; // IDF-weighted share of the line's words the picked SKU explains (null = nothing to judge / no pick)
 }
 
 export interface ResolvedOrder {
   order: IncomingOrder;
   lines: ResolvedLine[];
   usage: DecisionUsage;
+  extractionUsage?: { requests: number; inputTokens: number; outputTokens: number; costUsd: number; llmLines: number };
 }
 
 /** Gold label format used by data/orders.jsonl. */

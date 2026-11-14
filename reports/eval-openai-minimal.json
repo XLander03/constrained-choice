@@ -1,0 +1,228 @@
+{
+  "data_label": "SYNTHETIC data; adapter=openai | archived M2/M3 run with minimal descriptions (replay of milestone-2 decisions)",
+  "adapter": "replay:openai-decisions",
+  "top_k": 8,
+  "choice_description": "minimal",
+  "default_unit_for_bare_number": "case",
+  "orders": 150,
+  "orders_requested": 150,
+  "gold_lines": 505,
+  "budget": {
+    "cap_input_tokens": 200000,
+    "stopped_early": null
+  },
+  "extraction": {
+    "line_recall_pct": 99.8,
+    "spurious_lines": 1,
+    "qty_exact_pct": 100,
+    "unit_exact_pct": 100,
+    "unit_defaulted_lines": 79
+  },
+  "retrieval": {
+    "resolvable_lines": 418,
+    "recall_at_1_pct": 99.8,
+    "recall_at_5_pct": 100,
+    "recall_at_8_pct": 100
+  },
+  "decision_top1": {
+    "resolvable_accuracy_pct": 89,
+    "resolvable_answered_none_pct": 10.8,
+    "resolvable_wrong_sku_picks": 1,
+    "ooc_to_none_pct": 100,
+    "ambiguous_to_none_pct": 87,
+    "ambiguous_pick_in_acceptable_pct": 13
+  },
+  "threshold_fit": {
+    "split": "dev (even orders), lines passing hard rules",
+    "target_precision": 0.98,
+    "calibrator": "isotonic",
+    "dev_eligible_picks": 195,
+    "threshold": 0.9166666666666666,
+    "precision": 1,
+    "coverage": 1
+  },
+  "at_threshold_test": {
+    "threshold": 0.917,
+    "lines": 253,
+    "coverage_pct": 70,
+    "auto_product_precision_pct": 99.4,
+    "auto_fully_correct_pct": 99.4,
+    "ambiguous_auto_leaks": 0,
+    "ooc_auto_leaks": 0,
+    "orders_fully_auto_and_correct_pct": 29.3,
+    "auto_lines": 177,
+    "auto_wrong": 1
+  },
+  "at_threshold_test_without_ambiguity_rule": {
+    "threshold": 0.917,
+    "lines": 253,
+    "coverage_pct": 72.3,
+    "auto_product_precision_pct": 96.7,
+    "auto_fully_correct_pct": 96.7,
+    "ambiguous_auto_leaks": 5,
+    "ooc_auto_leaks": 0,
+    "orders_fully_auto_and_correct_pct": 30.7,
+    "auto_lines": 183,
+    "auto_wrong": 6
+  },
+  "at_threshold_test_bare_numbers_to_review": {
+    "threshold": 0.917,
+    "lines": 253,
+    "coverage_pct": 58.1,
+    "auto_product_precision_pct": 100,
+    "auto_fully_correct_pct": 100,
+    "ambiguous_auto_leaks": 0,
+    "ooc_auto_leaks": 0,
+    "orders_fully_auto_and_correct_pct": 18.7,
+    "auto_lines": 147,
+    "auto_wrong": 0
+  },
+  "sweep_test_raw_confidence": [
+    {
+      "threshold": 0.3,
+      "lines": 253,
+      "coverage_pct": 70,
+      "auto_product_precision_pct": 99.4,
+      "auto_fully_correct_pct": 99.4,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 29.3,
+      "auto_lines": 177,
+      "auto_wrong": 1
+    },
+    {
+      "threshold": 0.5,
+      "lines": 253,
+      "coverage_pct": 68.8,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 26.7,
+      "auto_lines": 174,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.7,
+      "lines": 253,
+      "coverage_pct": 64.4,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 25.3,
+      "auto_lines": 163,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.8,
+      "lines": 253,
+      "coverage_pct": 60.9,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 21.3,
+      "auto_lines": 154,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.9,
+      "lines": 253,
+      "coverage_pct": 56.1,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 18.7,
+      "auto_lines": 142,
+      "auto_wrong": 0
+    },
+    {
+      "threshold": 0.95,
+      "lines": 253,
+      "coverage_pct": 45.8,
+      "auto_product_precision_pct": 100,
+      "auto_fully_correct_pct": 100,
+      "ambiguous_auto_leaks": 0,
+      "ooc_auto_leaks": 0,
+      "orders_fully_auto_and_correct_pct": 12,
+      "auto_lines": 116,
+      "auto_wrong": 0
+    }
+  ],
+  "cost": {
+    "requests": 150,
+    "input_tokens_total": 181728,
+    "usd_total": 0.018173,
+    "inr_total_at_88": 1.6,
+    "tokens_per_order": 1212,
+    "usd_per_order": 0.0001212,
+    "usd_per_1000_orders": 0.1212,
+    "inr_per_1000_orders_at_88": 10.66,
+    "basis": "OpenAI Decisions gpt-6-luna uncached input $0.10/1M tokens, output free"
+  },
+  "by_order_tag": {
+    "handwritten": {
+      "lines": 39,
+      "extracted_pct": 97.4,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 86.8
+    },
+    "hinglish": {
+      "lines": 443,
+      "extracted_pct": 99.8,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 88.9
+    },
+    "typo": {
+      "lines": 227,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 89.4
+    },
+    "abbreviation": {
+      "lines": 134,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 88.8
+    },
+    "hindi_number": {
+      "lines": 296,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 89.2
+    },
+    "unit_implicit": {
+      "lines": 239,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 87.9
+    },
+    "single_line": {
+      "lines": 87,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 96.6
+    },
+    "ambiguous": {
+      "lines": 170,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 88.8
+    },
+    "out_of_catalog": {
+      "lines": 140,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 94.3
+    }
+  },
+  "runtime_ms": 226,
+  "review_reasons": {
+    "ok": 372,
+    "none_of_these": 125,
+    "variant_ambiguous": 5,
+    "pack_size_ambiguous": 2
+  }
+}

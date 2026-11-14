@@ -6,8 +6,11 @@ export class IdentityCalibrator implements Calibrator { fit() {} apply(c: number
 /** Isotonic regression (pool-adjacent-violators). Monotone, no parametric assumptions; needs a few hundred labelled lines. */
 export class IsotonicCalibrator implements Calibrator {
   private xs: number[] = []; private ys: number[] = [];
+  /** Lowest confidence seen while fitting. Below it there is no evidence, so apply() returns 0 (→ review) instead of extrapolating. */
+  private lo: number | null = null;
   fit(samples: { conf: number; correct: boolean }[]) {
     const s = [...samples].sort((a, b) => a.conf - b.conf);
+    this.lo = s.length ? s[0].conf : null;
     const blocks: { x: number; y: number; w: number }[] = [];
     for (const p of s) {
       blocks.push({ x: p.conf, y: p.correct ? 1 : 0, w: 1 });
@@ -18,8 +21,12 @@ export class IsotonicCalibrator implements Calibrator {
     }
     this.xs = blocks.map(b => b.x); this.ys = blocks.map(b => b.y);
   }
+  toJSON() { return { kind: "isotonic", xs: this.xs, ys: this.ys, min_conf_seen: this.lo }; }
+  static fromJSON(j: { xs: number[]; ys: number[]; min_conf_seen?: number | null }) { const c = new IsotonicCalibrator(); c.xs = j.xs; c.ys = j.ys; c.lo = j.min_conf_seen ?? null; return c; }
+  get minConfSeen() { return this.lo; }
   apply(c: number) {
     if (!this.xs.length) return c;
+    if (this.lo !== null && c < this.lo) return 0;
     const i = this.xs.findIndex(x => x >= c);
     return i < 0 ? this.ys[this.ys.length - 1] : this.ys[i];
   }

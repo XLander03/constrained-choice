@@ -1,0 +1,213 @@
+{
+  "data_label": "SYNTHETIC",
+  "model": "gpt-5-nano",
+  "lines": 14,
+  "rules_could_not_parse": 14,
+  "correct_qty_unit": 13,
+  "accuracy_pct": 92.9,
+  "requests": 3,
+  "input_tokens": 1143,
+  "output_tokens": 463,
+  "usd": 0.000242,
+  "inr_at_88": 0.021,
+  "price_basis": "gpt-5-nano: $0.05/1M in, $0.4/1M out (check current pricing)",
+  "runtime_ms": 5785,
+  "rows": [
+    {
+      "raw": "maggi 70g three boxes",
+      "gold": {
+        "qty": 3,
+        "unit": "case"
+      },
+      "got": {
+        "qty": 3,
+        "unit": "case",
+        "item": "maggi 70g",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "parle g 10 wala - a dozen",
+      "gold": {
+        "qty": 1,
+        "unit": "dozen"
+      },
+      "got": {
+        "qty": 1,
+        "unit": "dozen",
+        "item": "parle g 10 wala - a",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "colgate 100g five boxes",
+      "gold": {
+        "qty": 5,
+        "unit": "case"
+      },
+      "got": {
+        "qty": 5,
+        "unit": "case",
+        "item": "colgate 100g",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "dettol soap 75g two dozen",
+      "gold": {
+        "qty": 2,
+        "unit": "dozen"
+      },
+      "got": {
+        "qty": 2,
+        "unit": "dozen",
+        "item": "dettol soap 75g",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "red label 250g ten cartons",
+      "gold": {
+        "qty": 10,
+        "unit": "case"
+      },
+      "got": {
+        "qty": 10,
+        "unit": "case",
+        "item": "red label 250g",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "good day pista badam four ladi",
+      "gold": {
+        "qty": 4,
+        "unit": "strip"
+      },
+      "got": {
+        "qty": null,
+        "unit": "unspecified",
+        "item": "good day pista badam four ladi",
+        "by": "rules"
+      },
+      "ok": false
+    },
+    {
+      "raw": "bru coffee 2g - fifteen strips",
+      "gold": {
+        "qty": 15,
+        "unit": "strip"
+      },
+      "got": {
+        "qty": 15,
+        "unit": "strip",
+        "item": "bru coffee 2g - fifteen",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "clinic plus sachet one peti",
+      "gold": {
+        "qty": 1,
+        "unit": "case"
+      },
+      "got": {
+        "qty": 1,
+        "unit": "case",
+        "item": "clinic plus sachet one peti",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "harpic 500ml six pieces",
+      "gold": {
+        "qty": 6,
+        "unit": "pc"
+      },
+      "got": {
+        "qty": 6,
+        "unit": "pc",
+        "item": "harpic 500ml six pieces",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "vim bar twelve nos",
+      "gold": {
+        "qty": 12,
+        "unit": "pc"
+      },
+      "got": {
+        "qty": 12,
+        "unit": "pc",
+        "item": "vim bar twelve nos",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "maggi masala 70g dozen",
+      "gold": {
+        "qty": null,
+        "unit": "dozen"
+      },
+      "got": {
+        "qty": null,
+        "unit": "unspecified",
+        "item": "maggi masala 70g dozen",
+        "by": "rules"
+      },
+      "ok": true
+    },
+    {
+      "raw": "tata salt 1kg twenty bags",
+      "gold": {
+        "qty": 20,
+        "unit": "case"
+      },
+      "got": {
+        "qty": 20,
+        "unit": "case",
+        "item": "tata salt 1kg twenty bags",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "fortune soyabean 1 ltr eight crates",
+      "gold": {
+        "qty": 8,
+        "unit": "case"
+      },
+      "got": {
+        "qty": 8,
+        "unit": "case",
+        "item": "fortune soyabean 1 ltr",
+        "by": "llm"
+      },
+      "ok": true
+    },
+    {
+      "raw": "surf excel 500g - thirty packets",
+      "gold": {
+        "qty": 30,
+        "unit": "pc"
+      },
+      "got": {
+        "qty": 30,
+        "unit": "pc",
+        "item": "surf excel 500g - thirty packets",
+        "by": "llm"
+      },
+      "ok": true
+    }
+  ]
+}

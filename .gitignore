@@ -1,4 +1,9 @@
 node_modules/
 .env
+.env.*
 reports/*.failures.json
 review-queue.jsonl
+var/
+secrets/
+*service-account*.json
+*-sa.json
