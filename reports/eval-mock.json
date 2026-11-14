@@ -1,0 +1,177 @@
+{
+  "data_label": "SYNTHETIC data; MOCK decision adapter — accuracy numbers validate the harness only, not any model.",
+  "adapter": "mock",
+  "top_k": 20,
+  "orders": 150,
+  "gold_lines": 505,
+  "extraction": {
+    "line_recall_pct": 99.8,
+    "spurious_lines": 1,
+    "qty_exact_pct": 100,
+    "unit_exact_pct": 100
+  },
+  "retrieval": {
+    "resolvable_lines": 418,
+    "recall_at_1_pct": 99.8,
+    "recall_at_5_pct": 100,
+    "recall_at_20_pct": 100
+  },
+  "decision_top1": {
+    "resolvable_accuracy_pct": 99.3,
+    "ooc_to_none_pct": 20,
+    "ambiguous_to_none_pct": 2.2,
+    "ambiguous_pick_in_acceptable_pct": 97.8
+  },
+  "threshold_fit": {
+    "split": "dev (even orders)",
+    "target_precision": 0.98,
+    "calibrator": "isotonic",
+    "threshold": 0.8461538461538461,
+    "precision": 0.9806763285024155,
+    "coverage": 0.8414634146341463
+  },
+  "at_threshold_test": {
+    "threshold": 0.846,
+    "lines": 253,
+    "coverage_pct": 64.8,
+    "auto_product_precision_pct": 98.2,
+    "auto_fully_correct_pct": 98.2,
+    "ambiguous_auto_leaks": 1,
+    "ooc_auto_leaks": 2,
+    "orders_fully_auto_and_correct_pct": 26.7
+  },
+  "sweep_test_raw_confidence": [
+    {
+      "threshold": 0.3,
+      "lines": 253,
+      "coverage_pct": 78.3,
+      "auto_product_precision_pct": 83.8,
+      "auto_fully_correct_pct": 83.8,
+      "ambiguous_auto_leaks": 20,
+      "ooc_auto_leaks": 12,
+      "orders_fully_auto_and_correct_pct": 28
+    },
+    {
+      "threshold": 0.5,
+      "lines": 253,
+      "coverage_pct": 74.7,
+      "auto_product_precision_pct": 87.8,
+      "auto_fully_correct_pct": 87.8,
+      "ambiguous_auto_leaks": 15,
+      "ooc_auto_leaks": 8,
+      "orders_fully_auto_and_correct_pct": 28
+    },
+    {
+      "threshold": 0.7,
+      "lines": 253,
+      "coverage_pct": 69.2,
+      "auto_product_precision_pct": 94.9,
+      "auto_fully_correct_pct": 94.9,
+      "ambiguous_auto_leaks": 5,
+      "ooc_auto_leaks": 4,
+      "orders_fully_auto_and_correct_pct": 28
+    },
+    {
+      "threshold": 0.8,
+      "lines": 253,
+      "coverage_pct": 65.6,
+      "auto_product_precision_pct": 98.2,
+      "auto_fully_correct_pct": 98.2,
+      "ambiguous_auto_leaks": 1,
+      "ooc_auto_leaks": 2,
+      "orders_fully_auto_and_correct_pct": 26.7
+    },
+    {
+      "threshold": 0.9,
+      "lines": 253,
+      "coverage_pct": 63.2,
+      "auto_product_precision_pct": 98.1,
+      "auto_fully_correct_pct": 98.1,
+      "ambiguous_auto_leaks": 1,
+      "ooc_auto_leaks": 2,
+      "orders_fully_auto_and_correct_pct": 24
+    },
+    {
+      "threshold": 0.95,
+      "lines": 253,
+      "coverage_pct": 59.7,
+      "auto_product_precision_pct": 98.7,
+      "auto_fully_correct_pct": 98.7,
+      "ambiguous_auto_leaks": 1,
+      "ooc_auto_leaks": 1,
+      "orders_fully_auto_and_correct_pct": 18.7
+    }
+  ],
+  "cost": {
+    "requests": 150,
+    "input_tokens_total": 405572,
+    "tokens_per_order": 2704,
+    "usd_per_order": 0.0002704,
+    "usd_per_1000_orders": 0.2704,
+    "inr_per_1000_orders_at_88": 23.79,
+    "basis": "OpenAI Decisions gpt-6-luna uncached input $0.10/1M tokens, output free; tokens estimated as JSON chars/4 of the real request body"
+  },
+  "by_order_tag": {
+    "handwritten": {
+      "lines": 39,
+      "extracted_pct": 97.4,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 92.1
+    },
+    "hinglish": {
+      "lines": 443,
+      "extracted_pct": 99.8,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 84.4
+    },
+    "typo": {
+      "lines": 227,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 87.2
+    },
+    "abbreviation": {
+      "lines": 134,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 82.8
+    },
+    "hindi_number": {
+      "lines": 296,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 83.4
+    },
+    "unit_implicit": {
+      "lines": 239,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 85.8
+    },
+    "single_line": {
+      "lines": 87,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 81.6
+    },
+    "ambiguous": {
+      "lines": 170,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 72.4
+    },
+    "out_of_catalog": {
+      "lines": 140,
+      "extracted_pct": 100,
+      "qty_unit_ok_pct": 100,
+      "product_top1_ok_pct": 72.1
+    }
+  },
+  "runtime_ms": 254,
+  "review_reasons": {
+    "ok": 345,
+    "low_confidence": 91,
+    "unit_unspecified": 79,
+    "none_of_these": 10
+  }
+}

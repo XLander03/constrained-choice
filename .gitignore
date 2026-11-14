@@ -1,0 +1,4 @@
+node_modules/
+.env
+reports/*.failures.json
+review-queue.jsonl

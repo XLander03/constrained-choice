@@ -1,0 +1,300 @@
+sku_id,brand,product,variant,pack_size,pack_unit,mrp_inr,case_qty,strip_qty,category,aliases,data_label
+SKU0001,Parle,Parle-G Biscuit,,55,g,5,144,,biscuits,"parle g|parle g 55g|parleg|parleg 55g|parle-g|parle-g 55g|pg biscuit|pg biscuit 55g|glucose biscuit|glucose biscuit 55g|parle g 5 wala|parle g rs5",SYNTHETIC
+SKU0002,Parle,Parle-G Biscuit,,110,g,10,96,,biscuits,"parle g|parle g 110g|parleg|parleg 110g|parle-g|parle-g 110g|pg biscuit|pg biscuit 110g|glucose biscuit|glucose biscuit 110g|parle g 10 wala|parle g rs10",SYNTHETIC
+SKU0003,Parle,Parle-G Biscuit,,250,g,25,48,,biscuits,"parle g|parle g 250g|parleg|parleg 250g|parle-g|parle-g 250g|pg biscuit|pg biscuit 250g|glucose biscuit|glucose biscuit 250g|parle g 25 wala|parle g rs25",SYNTHETIC
+SKU0004,Parle,Parle-G Biscuit,,800,g,80,12,,biscuits,"parle g|parle g 800g|parleg|parleg 800g|parle-g|parle-g 800g|pg biscuit|pg biscuit 800g|glucose biscuit|glucose biscuit 800g|parle g 80 wala|parle g rs80",SYNTHETIC
+SKU0005,Parle,Monaco,Classic,63,g,10,96,,biscuits,"monaco|monaco 63g|monaco 10 wala|monaco rs10",SYNTHETIC
+SKU0006,Parle,Monaco,Classic,200,g,35,36,,biscuits,"monaco|monaco 200g|monaco 35 wala|monaco rs35",SYNTHETIC
+SKU0007,Parle,Monaco,Jeera,63,g,10,96,,biscuits,"monaco|monaco 63g|jeera monaco|jeera monaco 63g|monaco jira|monaco jira 63g|monaco 10 wala|monaco rs10",SYNTHETIC
+SKU0008,Parle,Monaco,Jeera,200,g,35,36,,biscuits,"monaco|monaco 200g|jeera monaco|jeera monaco 200g|monaco jira|monaco jira 200g|monaco 35 wala|monaco rs35",SYNTHETIC
+SKU0009,Parle,Krackjack,,60,g,10,96,,biscuits,"krackjack|krackjack 60g|crackjack|crackjack 60g|krack jack|krack jack 60g|krackjack 10 wala|krackjack rs10",SYNTHETIC
+SKU0010,Parle,Krackjack,,200,g,35,36,,biscuits,"krackjack|krackjack 200g|crackjack|crackjack 200g|krack jack|krack jack 200g|krackjack 35 wala|krackjack rs35",SYNTHETIC
+SKU0011,Parle,Hide & Seek,Choco Chip,100,g,30,48,,biscuits,"hide n seek|hide n seek 100g|hide and seek|hide and seek 100g|h&s biscuit|h&s biscuit 100g|hide n seek 30 wala|hide n seek rs30",SYNTHETIC
+SKU0012,Parle,Hide & Seek,Choco Chip,200,g,60,24,,biscuits,"hide n seek|hide n seek 200g|hide and seek|hide and seek 200g|h&s biscuit|h&s biscuit 200g|hide n seek 60 wala|hide n seek rs60",SYNTHETIC
+SKU0013,Parle,Hide & Seek,Bourbon,100,g,30,48,,biscuits,"hide n seek|hide n seek 100g|hide and seek|hide and seek 100g|h&s biscuit|h&s biscuit 100g|hide n seek 30 wala|hide n seek rs30",SYNTHETIC
+SKU0014,Parle,Hide & Seek,Bourbon,200,g,60,24,,biscuits,"hide n seek|hide n seek 200g|hide and seek|hide and seek 200g|h&s biscuit|h&s biscuit 200g|hide n seek 60 wala|hide n seek rs60",SYNTHETIC
+SKU0015,Britannia,Good Day,Cashew,75,g,10,96,,biscuits,"good day|good day 75g|goodday|goodday 75g|gd|gd 75g|kaju good day|kaju good day 75g|goodday kaju|goodday kaju 75g|good day 10 wala|good day rs10",SYNTHETIC
+SKU0016,Britannia,Good Day,Cashew,200,g,35,36,,biscuits,"good day|good day 200g|goodday|goodday 200g|gd|gd 200g|kaju good day|kaju good day 200g|goodday kaju|goodday kaju 200g|good day 35 wala|good day rs35",SYNTHETIC
+SKU0017,Britannia,Good Day,Butter,75,g,10,96,,biscuits,"good day|good day 75g|goodday|goodday 75g|gd|gd 75g|good day 10 wala|good day rs10",SYNTHETIC
+SKU0018,Britannia,Good Day,Butter,200,g,35,36,,biscuits,"good day|good day 200g|goodday|goodday 200g|gd|gd 200g|good day 35 wala|good day rs35",SYNTHETIC
+SKU0019,Britannia,Good Day,Pista Badam,75,g,10,96,,biscuits,"good day|good day 75g|goodday|goodday 75g|gd|gd 75g|pista badam good day|pista badam good day 75g|good day 10 wala|good day rs10",SYNTHETIC
+SKU0020,Britannia,Good Day,Pista Badam,200,g,35,36,,biscuits,"good day|good day 200g|goodday|goodday 200g|gd|gd 200g|pista badam good day|pista badam good day 200g|good day 35 wala|good day rs35",SYNTHETIC
+SKU0021,Britannia,Marie Gold,,120,g,10,96,,biscuits,"marie gold|marie gold 120g|mari gold|mari gold 120g|marie|marie 120g|marie gold 10 wala|marie gold rs10",SYNTHETIC
+SKU0022,Britannia,Marie Gold,,250,g,30,48,,biscuits,"marie gold|marie gold 250g|mari gold|mari gold 250g|marie|marie 250g|marie gold 30 wala|marie gold rs30",SYNTHETIC
+SKU0023,Britannia,Bourbon,,60,g,10,96,,biscuits,"bourbon|bourbon 60g|borbon|borbon 60g|britannia bourbon|britannia bourbon 60g|bourbon 10 wala|bourbon rs10",SYNTHETIC
+SKU0024,Britannia,Bourbon,,150,g,30,48,,biscuits,"bourbon|bourbon 150g|borbon|borbon 150g|britannia bourbon|britannia bourbon 150g|bourbon 30 wala|bourbon rs30",SYNTHETIC
+SKU0025,Britannia,50-50,Sweet & Salty,62,g,10,96,,biscuits,"50 50|50 50 62g|fifty fifty|fifty fifty 62g|5050|5050 62g|50 50 10 wala|50 50 rs10",SYNTHETIC
+SKU0026,Britannia,50-50,Maska Chaska,62,g,10,96,,biscuits,"50 50|50 50 62g|fifty fifty|fifty fifty 62g|5050|5050 62g|50 50 10 wala|50 50 rs10",SYNTHETIC
+SKU0027,Sunfeast,Dark Fantasy Choco Fills,,75,g,40,48,,biscuits,"dark fantasy|dark fantasy 75g|df choco fills|df choco fills 75g|dark fantasy 40 wala|dark fantasy rs40",SYNTHETIC
+SKU0028,Sunfeast,Dark Fantasy Choco Fills,,300,g,160,12,,biscuits,"dark fantasy|dark fantasy 300g|df choco fills|df choco fills 300g|dark fantasy 160 wala|dark fantasy rs160",SYNTHETIC
+SKU0029,Cadbury,Oreo,Vanilla,46.3,g,10,96,,biscuits,"oreo|oreo 46.3g|orio|orio 46.3g|oreo 10 wala|oreo rs10",SYNTHETIC
+SKU0030,Cadbury,Oreo,Vanilla,120,g,35,36,,biscuits,"oreo|oreo 120g|orio|orio 120g|oreo 35 wala|oreo rs35",SYNTHETIC
+SKU0031,Cadbury,Oreo,Chocolate,46.3,g,10,96,,biscuits,"oreo|oreo 46.3g|orio|orio 46.3g|oreo 10 wala|oreo rs10",SYNTHETIC
+SKU0032,Cadbury,Oreo,Chocolate,120,g,35,36,,biscuits,"oreo|oreo 120g|orio|orio 120g|oreo 35 wala|oreo rs35",SYNTHETIC
+SKU0033,Nestle,Maggi 2-Minute Noodles,Masala,32,g,7,192,,instant_food,"maggi|maggi 32g|maggie|maggie 32g|magi|magi 32g|maggi noodles|maggi noodles 32g|maggi masala|maggi masala 32g|maggi 7 wala|maggi rs7",SYNTHETIC
+SKU0034,Nestle,Maggi 2-Minute Noodles,Masala,70,g,14,96,,instant_food,"maggi|maggi 70g|maggie|maggie 70g|magi|magi 70g|maggi noodles|maggi noodles 70g|maggi masala|maggi masala 70g|maggi 14 wala|maggi rs14",SYNTHETIC
+SKU0035,Nestle,Maggi 2-Minute Noodles,Masala,280,g,56,24,,instant_food,"maggi|maggi 280g|maggie|maggie 280g|magi|magi 280g|maggi noodles|maggi noodles 280g|maggi masala|maggi masala 280g|maggi 56 wala|maggi rs56",SYNTHETIC
+SKU0036,Nestle,Maggi 2-Minute Noodles,Masala,560,g,112,12,,instant_food,"maggi|maggi 560g|maggie|maggie 560g|magi|magi 560g|maggi noodles|maggi noodles 560g|maggi masala|maggi masala 560g|maggi 112 wala|maggi rs112",SYNTHETIC
+SKU0037,Nestle,Maggi Atta Noodles,Masala,72.5,g,25,96,,instant_food,"atta maggi|atta maggi 72.5g|maggi atta|maggi atta 72.5g|atta maggi 25 wala|atta maggi rs25",SYNTHETIC
+SKU0038,Sunfeast,YiPPee! Noodles,Magic Masala,60,g,12,96,,instant_food,"yippee|yippee 60g|yipee|yipee 60g|yippie|yippie 60g|yippee 12 wala|yippee rs12",SYNTHETIC
+SKU0039,Sunfeast,YiPPee! Noodles,Magic Masala,240,g,48,24,,instant_food,"yippee|yippee 240g|yipee|yipee 240g|yippie|yippie 240g|yippee 48 wala|yippee rs48",SYNTHETIC
+SKU0040,Nissin,Top Ramen Curry Noodles,,70,g,14,96,,instant_food,"top ramen|top ramen 70g|topramen|topramen 70g|top ramen 14 wala|top ramen rs14",SYNTHETIC
+SKU0041,Kissan,Fresh Tomato Ketchup,,200,g,50,48,,instant_food,"kissan ketchup|kissan ketchup 200g|kisan sauce|kisan sauce 200g|kissan sauce|kissan sauce 200g|tomato ketchup|tomato ketchup 200g|kissan ketchup 50 wala|kissan ketchup rs50",SYNTHETIC
+SKU0042,Kissan,Fresh Tomato Ketchup,,950,g,150,12,,instant_food,"kissan ketchup|kissan ketchup 950g|kisan sauce|kisan sauce 950g|kissan sauce|kissan sauce 950g|tomato ketchup|tomato ketchup 950g|kissan ketchup 150 wala|kissan ketchup rs150",SYNTHETIC
+SKU0043,Maggi,Rich Tomato Ketchup,,200,g,55,48,,instant_food,"maggi ketchup|maggi ketchup 200g|maggi sauce|maggi sauce 200g|maggi ketchup 55 wala|maggi ketchup rs55",SYNTHETIC
+SKU0044,Maggi,Rich Tomato Ketchup,,1,kg,165,12,,instant_food,"maggi ketchup|maggi ketchup 1kg|maggi sauce|maggi sauce 1kg",SYNTHETIC
+SKU0045,Tata Tea,Premium Tea,,100,g,65,96,,beverages_hot,"tata tea|tata tea 100g|tata premium|tata premium 100g|tata chai|tata chai 100g|tata tea 65 wala|tata tea rs65",SYNTHETIC
+SKU0046,Tata Tea,Premium Tea,,250,g,145,40,,beverages_hot,"tata tea|tata tea 250g|tata premium|tata premium 250g|tata chai|tata chai 250g|tata tea 145 wala|tata tea rs145",SYNTHETIC
+SKU0047,Tata Tea,Premium Tea,,500,g,280,24,,beverages_hot,"tata tea|tata tea 500g|tata premium|tata premium 500g|tata chai|tata chai 500g|tata tea 280 wala|tata tea rs280",SYNTHETIC
+SKU0048,Tata Tea,Premium Tea,,1,kg,550,12,,beverages_hot,"tata tea|tata tea 1kg|tata premium|tata premium 1kg|tata chai|tata chai 1kg",SYNTHETIC
+SKU0049,Tata Tea,Gold Tea,,250,g,185,40,,beverages_hot,"tata gold|tata gold 250g|tata gold 185 wala|tata gold rs185",SYNTHETIC
+SKU0050,Tata Tea,Gold Tea,,500,g,360,24,,beverages_hot,"tata gold|tata gold 500g|tata gold 360 wala|tata gold rs360",SYNTHETIC
+SKU0051,Brooke Bond,Red Label Tea,,100,g,60,96,,beverages_hot,"red label|red label 100g|redlabel|redlabel 100g|rl chai|rl chai 100g|red lebal|red lebal 100g|red label 60 wala|red label rs60",SYNTHETIC
+SKU0052,Brooke Bond,Red Label Tea,,250,g,140,40,,beverages_hot,"red label|red label 250g|redlabel|redlabel 250g|rl chai|rl chai 250g|red lebal|red lebal 250g|red label 140 wala|red label rs140",SYNTHETIC
+SKU0053,Brooke Bond,Red Label Tea,,500,g,275,24,,beverages_hot,"red label|red label 500g|redlabel|redlabel 500g|rl chai|rl chai 500g|red lebal|red lebal 500g|red label 275 wala|red label rs275",SYNTHETIC
+SKU0054,Brooke Bond,Red Label Tea,,1,kg,540,12,,beverages_hot,"red label|red label 1kg|redlabel|redlabel 1kg|rl chai|rl chai 1kg|red lebal|red lebal 1kg",SYNTHETIC
+SKU0055,Brooke Bond,Taj Mahal Tea,,250,g,210,40,,beverages_hot,"taj mahal|taj mahal 250g|taj chai|taj chai 250g|taj|taj 250g|taj mahal 210 wala|taj mahal rs210",SYNTHETIC
+SKU0056,Brooke Bond,Taj Mahal Tea,,500,g,410,24,,beverages_hot,"taj mahal|taj mahal 500g|taj chai|taj chai 500g|taj|taj 500g|taj mahal 410 wala|taj mahal rs410",SYNTHETIC
+SKU0057,Wagh Bakri,Premium Leaf Tea,,250,g,150,40,,beverages_hot,"wagh bakri|wagh bakri 250g|waghbakri|waghbakri 250g|bagh bakri|bagh bakri 250g|wagh bakri 150 wala|wagh bakri rs150",SYNTHETIC
+SKU0058,Wagh Bakri,Premium Leaf Tea,,500,g,290,24,,beverages_hot,"wagh bakri|wagh bakri 500g|waghbakri|waghbakri 500g|bagh bakri|bagh bakri 500g|wagh bakri 290 wala|wagh bakri rs290",SYNTHETIC
+SKU0059,Wagh Bakri,Premium Leaf Tea,,1,kg,570,12,,beverages_hot,"wagh bakri|wagh bakri 1kg|waghbakri|waghbakri 1kg|bagh bakri|bagh bakri 1kg",SYNTHETIC
+SKU0060,Nescafe,Classic Instant Coffee,,2,g,2,480,24,beverages_hot,"nescafe|nescafe 2g|nescafe classic|nescafe classic 2g|nes coffee|nes coffee 2g|nescafe 2 wala|nescafe rs2",SYNTHETIC
+SKU0061,Nescafe,Classic Instant Coffee,,45,g,165,48,,beverages_hot,"nescafe|nescafe 45g|nescafe classic|nescafe classic 45g|nes coffee|nes coffee 45g|nescafe 165 wala|nescafe rs165",SYNTHETIC
+SKU0062,Nescafe,Classic Instant Coffee,,90,g,320,24,,beverages_hot,"nescafe|nescafe 90g|nescafe classic|nescafe classic 90g|nes coffee|nes coffee 90g|nescafe 320 wala|nescafe rs320",SYNTHETIC
+SKU0063,Bru,Instant Coffee,,2,g,2,480,24,beverages_hot,"bru|bru 2g|bru coffee|bru coffee 2g|bru 2 wala|bru rs2",SYNTHETIC
+SKU0064,Bru,Instant Coffee,,50,g,120,48,,beverages_hot,"bru|bru 50g|bru coffee|bru coffee 50g|bru 120 wala|bru rs120",SYNTHETIC
+SKU0065,Bru,Instant Coffee,,100,g,230,24,,beverages_hot,"bru|bru 100g|bru coffee|bru coffee 100g|bru 230 wala|bru rs230",SYNTHETIC
+SKU0066,Cadbury,Bournvita,,500,g,230,24,,beverages_hot,"bournvita|bournvita 500g|bornvita|bornvita 500g|bournvita jar|bournvita jar 500g|bournvita 230 wala|bournvita rs230",SYNTHETIC
+SKU0067,Cadbury,Bournvita,,1,kg,440,12,,beverages_hot,"bournvita|bournvita 1kg|bornvita|bornvita 1kg|bournvita jar|bournvita jar 1kg",SYNTHETIC
+SKU0068,Horlicks,Health Drink,Classic Malt,500,g,255,24,,beverages_hot,"horlicks|horlicks 500g|horlics|horlics 500g|horlicks 255 wala|horlicks rs255",SYNTHETIC
+SKU0069,Horlicks,Health Drink,Classic Malt,1,kg,490,12,,beverages_hot,"horlicks|horlicks 1kg|horlics|horlics 1kg",SYNTHETIC
+SKU0070,Horlicks,Health Drink,Chocolate,500,g,255,24,,beverages_hot,"horlicks|horlicks 500g|horlics|horlics 500g|horlicks 255 wala|horlicks rs255",SYNTHETIC
+SKU0071,Horlicks,Health Drink,Chocolate,1,kg,490,12,,beverages_hot,"horlicks|horlicks 1kg|horlics|horlics 1kg",SYNTHETIC
+SKU0072,Boost,Health Drink,,450,g,240,24,,beverages_hot,"boost|boost 450g|boost 240 wala|boost rs240",SYNTHETIC
+SKU0073,Coca-Cola,Coca-Cola Soft Drink,,250,ml,20,24,,beverages_cold,"coke|coke 250ml|coca cola|coca cola 250ml|cola|cola 250ml|coke 20 wala|coke rs20",SYNTHETIC
+SKU0074,Coca-Cola,Coca-Cola Soft Drink,,750,ml,40,24,,beverages_cold,"coke|coke 750ml|coca cola|coca cola 750ml|cola|cola 750ml|coke 40 wala|coke rs40",SYNTHETIC
+SKU0075,Coca-Cola,Coca-Cola Soft Drink,,2.25,L,95,9,,beverages_cold,"coke|coke 2.25L|coca cola|coca cola 2.25L|cola|cola 2.25L",SYNTHETIC
+SKU0076,Thums Up,Thums Up Soft Drink,,250,ml,20,24,,beverages_cold,"thums up|thums up 250ml|thumsup|thumsup 250ml|thumbs up|thumbs up 250ml|tu|tu 250ml|thums up 20 wala|thums up rs20",SYNTHETIC
+SKU0077,Thums Up,Thums Up Soft Drink,,750,ml,40,24,,beverages_cold,"thums up|thums up 750ml|thumsup|thumsup 750ml|thumbs up|thumbs up 750ml|tu|tu 750ml|thums up 40 wala|thums up rs40",SYNTHETIC
+SKU0078,Thums Up,Thums Up Soft Drink,,2.25,L,95,9,,beverages_cold,"thums up|thums up 2.25L|thumsup|thumsup 2.25L|thumbs up|thumbs up 2.25L|tu|tu 2.25L",SYNTHETIC
+SKU0079,Sprite,Sprite Soft Drink,,250,ml,20,24,,beverages_cold,"sprite|sprite 250ml|sprite 20 wala|sprite rs20",SYNTHETIC
+SKU0080,Sprite,Sprite Soft Drink,,750,ml,40,24,,beverages_cold,"sprite|sprite 750ml|sprite 40 wala|sprite rs40",SYNTHETIC
+SKU0081,Sprite,Sprite Soft Drink,,2.25,L,95,9,,beverages_cold,"sprite|sprite 2.25L",SYNTHETIC
+SKU0082,Maaza,Mango Drink,,250,ml,20,24,,beverages_cold,"maaza|maaza 250ml|maza|maza 250ml|maaza 20 wala|maaza rs20",SYNTHETIC
+SKU0083,Maaza,Mango Drink,,600,ml,40,24,,beverages_cold,"maaza|maaza 600ml|maza|maza 600ml|maaza 40 wala|maaza rs40",SYNTHETIC
+SKU0084,Maaza,Mango Drink,,1.2,L,70,12,,beverages_cold,"maaza|maaza 1.2L|maza|maza 1.2L",SYNTHETIC
+SKU0085,Parle Agro,Frooti Mango Drink,,125,ml,10,40,,beverages_cold,"frooti|frooti 125ml|fruti|fruti 125ml|frooty|frooty 125ml|frooti 10 wala|frooti rs10",SYNTHETIC
+SKU0086,Parle Agro,Frooti Mango Drink,,200,ml,15,30,,beverages_cold,"frooti|frooti 200ml|fruti|fruti 200ml|frooty|frooty 200ml|frooti 15 wala|frooti rs15",SYNTHETIC
+SKU0087,Parle Agro,Frooti Mango Drink,,600,ml,40,24,,beverages_cold,"frooti|frooti 600ml|fruti|fruti 600ml|frooty|frooty 600ml|frooti 40 wala|frooti rs40",SYNTHETIC
+SKU0088,Bisleri,Packaged Drinking Water,,500,ml,10,24,,beverages_cold,"bisleri|bisleri 500ml|water bottle|water bottle 500ml|pani bottle|pani bottle 500ml|bisleri 10 wala|bisleri rs10",SYNTHETIC
+SKU0089,Bisleri,Packaged Drinking Water,,1,L,20,12,,beverages_cold,"bisleri|bisleri 1L|water bottle|water bottle 1L|pani bottle|pani bottle 1L",SYNTHETIC
+SKU0090,Bisleri,Packaged Drinking Water,,2,L,30,9,,beverages_cold,"bisleri|bisleri 2L|water bottle|water bottle 2L|pani bottle|pani bottle 2L",SYNTHETIC
+SKU0091,Lux,Soap Bar,Soft Rose,100,g,38,144,,soap,"lux|lux 100g|lux sabun|lux sabun 100g|lux rose|lux rose 100g|lux pink|lux pink 100g|lux 38 wala|lux rs38",SYNTHETIC
+SKU0092,Lux,Soap Bar,Soft Rose,150,g,55,72,,soap,"lux|lux 150g|lux sabun|lux sabun 150g|lux rose|lux rose 150g|lux pink|lux pink 150g|lux 55 wala|lux rs55",SYNTHETIC
+SKU0093,Lux,Soap Bar,Jasmine,100,g,38,144,,soap,"lux|lux 100g|lux sabun|lux sabun 100g|lux 38 wala|lux rs38",SYNTHETIC
+SKU0094,Lux,Soap Bar,Jasmine,150,g,55,72,,soap,"lux|lux 150g|lux sabun|lux sabun 150g|lux 55 wala|lux rs55",SYNTHETIC
+SKU0095,Lifebuoy,Soap Bar,Total 10,56,g,10,288,,soap,"lifebuoy|lifebuoy 56g|lifeboy|lifeboy 56g|lifebuoy sabun|lifebuoy sabun 56g|lb soap|lb soap 56g|lifebuoy 10 wala|lifebuoy rs10",SYNTHETIC
+SKU0096,Lifebuoy,Soap Bar,Total 10,100,g,30,144,,soap,"lifebuoy|lifebuoy 100g|lifeboy|lifeboy 100g|lifebuoy sabun|lifebuoy sabun 100g|lb soap|lb soap 100g|lifebuoy 30 wala|lifebuoy rs30",SYNTHETIC
+SKU0097,Lifebuoy,Soap Bar,Total 10,125,g,38,72,,soap,"lifebuoy|lifebuoy 125g|lifeboy|lifeboy 125g|lifebuoy sabun|lifebuoy sabun 125g|lb soap|lb soap 125g|lifebuoy 38 wala|lifebuoy rs38",SYNTHETIC
+SKU0098,Lifebuoy,Soap Bar,Lemon Fresh,56,g,10,288,,soap,"lifebuoy|lifebuoy 56g|lifeboy|lifeboy 56g|lifebuoy sabun|lifebuoy sabun 56g|lb soap|lb soap 56g|lifebuoy 10 wala|lifebuoy rs10",SYNTHETIC
+SKU0099,Lifebuoy,Soap Bar,Lemon Fresh,100,g,30,144,,soap,"lifebuoy|lifebuoy 100g|lifeboy|lifeboy 100g|lifebuoy sabun|lifebuoy sabun 100g|lb soap|lb soap 100g|lifebuoy 30 wala|lifebuoy rs30",SYNTHETIC
+SKU0100,Lifebuoy,Soap Bar,Lemon Fresh,125,g,38,72,,soap,"lifebuoy|lifebuoy 125g|lifeboy|lifeboy 125g|lifebuoy sabun|lifebuoy sabun 125g|lb soap|lb soap 125g|lifebuoy 38 wala|lifebuoy rs38",SYNTHETIC
+SKU0101,Dettol,Original Soap,,75,g,40,144,,soap,"dettol soap|dettol soap 75g|detol sabun|detol sabun 75g|dettol sabun|dettol sabun 75g|dettol soap 40 wala|dettol soap rs40",SYNTHETIC
+SKU0102,Dettol,Original Soap,,125,g,62,72,,soap,"dettol soap|dettol soap 125g|detol sabun|detol sabun 125g|dettol sabun|dettol sabun 125g|dettol soap 62 wala|dettol soap rs62",SYNTHETIC
+SKU0103,Santoor,Sandal & Turmeric Soap,,100,g,38,144,,soap,"santoor|santoor 100g|santur|santur 100g|santoor sabun|santoor sabun 100g|santoor 38 wala|santoor rs38",SYNTHETIC
+SKU0104,Santoor,Sandal & Turmeric Soap,,150,g,52,72,,soap,"santoor|santoor 150g|santur|santur 150g|santoor sabun|santoor sabun 150g|santoor 52 wala|santoor rs52",SYNTHETIC
+SKU0105,Cinthol,Lime Soap,,100,g,40,144,,soap,"cinthol|cinthol 100g|cinthol lime|cinthol lime 100g|cinthol 40 wala|cinthol rs40",SYNTHETIC
+SKU0106,Hamam,Neem Soap,,100,g,38,144,,soap,"hamam|hamam 100g|hammam|hammam 100g|hamam 38 wala|hamam rs38",SYNTHETIC
+SKU0107,Hamam,Neem Soap,,150,g,55,72,,soap,"hamam|hamam 150g|hammam|hammam 150g|hamam 55 wala|hamam rs55",SYNTHETIC
+SKU0108,Dove,Cream Beauty Bathing Bar,,100,g,65,72,,soap,"dove soap|dove soap 100g|dove sabun|dove sabun 100g|dove soap 65 wala|dove soap rs65",SYNTHETIC
+SKU0109,Pears,Pure & Gentle Soap,,75,g,50,144,,soap,"pears|pears 75g|pears soap|pears soap 75g|pears 50 wala|pears rs50",SYNTHETIC
+SKU0110,Pears,Pure & Gentle Soap,,125,g,80,72,,soap,"pears|pears 125g|pears soap|pears soap 125g|pears 80 wala|pears rs80",SYNTHETIC
+SKU0111,Dettol,Antiseptic Liquid,,125,ml,70,48,,soap,"dettol liquid|dettol liquid 125ml|dettol bottle|dettol bottle 125ml|dettol liquid 70 wala|dettol liquid rs70",SYNTHETIC
+SKU0112,Dettol,Antiseptic Liquid,,250,ml,130,24,,soap,"dettol liquid|dettol liquid 250ml|dettol bottle|dettol bottle 250ml|dettol liquid 130 wala|dettol liquid rs130",SYNTHETIC
+SKU0113,Dettol,Antiseptic Liquid,,550,ml,245,12,,soap,"dettol liquid|dettol liquid 550ml|dettol bottle|dettol bottle 550ml|dettol liquid 245 wala|dettol liquid rs245",SYNTHETIC
+SKU0114,Surf Excel,Easy Wash Detergent Powder,,500,g,70,24,,detergent,"surf excel|surf excel 500g|surf|surf 500g|surfexcel|surfexcel 500g|se powder|se powder 500g|surf excel 70 wala|surf excel rs70",SYNTHETIC
+SKU0115,Surf Excel,Easy Wash Detergent Powder,,1,kg,135,24,,detergent,"surf excel|surf excel 1kg|surf|surf 1kg|surfexcel|surfexcel 1kg|se powder|se powder 1kg",SYNTHETIC
+SKU0116,Surf Excel,Easy Wash Detergent Powder,,4,kg,520,4,,detergent,"surf excel|surf excel 4kg|surf|surf 4kg|surfexcel|surfexcel 4kg|se powder|se powder 4kg",SYNTHETIC
+SKU0117,Surf Excel,Detergent Bar,,75,g,10,120,,detergent,"surf bar|surf bar 75g|surf excel bar|surf excel bar 75g|surf tikki|surf tikki 75g|surf bar 10 wala|surf bar rs10",SYNTHETIC
+SKU0118,Surf Excel,Detergent Bar,,250,g,35,40,,detergent,"surf bar|surf bar 250g|surf excel bar|surf excel bar 250g|surf tikki|surf tikki 250g|surf bar 35 wala|surf bar rs35",SYNTHETIC
+SKU0119,Surf Excel,Matic Liquid Detergent,Front Load,1,L,230,12,,detergent,"surf matic|surf matic 1L|matic|matic 1L|matic fl|matic fl 1L|front load|front load 1L",SYNTHETIC
+SKU0120,Surf Excel,Matic Liquid Detergent,Front Load,2,L,440,6,,detergent,"surf matic|surf matic 2L|matic|matic 2L|matic fl|matic fl 2L|front load|front load 2L",SYNTHETIC
+SKU0121,Surf Excel,Matic Liquid Detergent,Top Load,1,L,230,12,,detergent,"surf matic|surf matic 1L|matic|matic 1L|matic tl|matic tl 1L|top load|top load 1L",SYNTHETIC
+SKU0122,Surf Excel,Matic Liquid Detergent,Top Load,2,L,440,6,,detergent,"surf matic|surf matic 2L|matic|matic 2L|matic tl|matic tl 2L|top load|top load 2L",SYNTHETIC
+SKU0123,Ariel,Complete Detergent Powder,,500,g,115,24,,detergent,"ariel|ariel 500g|arial|arial 500g|ariel 115 wala|ariel rs115",SYNTHETIC
+SKU0124,Ariel,Complete Detergent Powder,,1,kg,225,12,,detergent,"ariel|ariel 1kg|arial|arial 1kg",SYNTHETIC
+SKU0125,Tide,Plus Detergent Powder,Jasmine & Rose,500,g,60,24,,detergent,"tide|tide 500g|tide plus|tide plus 500g|tide 60 wala|tide rs60",SYNTHETIC
+SKU0126,Tide,Plus Detergent Powder,Jasmine & Rose,1,kg,115,24,,detergent,"tide|tide 1kg|tide plus|tide plus 1kg",SYNTHETIC
+SKU0127,Tide,Plus Detergent Powder,Lemon & Mint,500,g,60,24,,detergent,"tide|tide 500g|tide plus|tide plus 500g|tide 60 wala|tide rs60",SYNTHETIC
+SKU0128,Tide,Plus Detergent Powder,Lemon & Mint,1,kg,115,24,,detergent,"tide|tide 1kg|tide plus|tide plus 1kg",SYNTHETIC
+SKU0129,Rin,Detergent Bar,,140,g,10,100,,detergent,"rin bar|rin bar 140g|rin tikki|rin tikki 140g|rin|rin 140g|rin bar 10 wala|rin bar rs10",SYNTHETIC
+SKU0130,Rin,Detergent Bar,,250,g,20,48,,detergent,"rin bar|rin bar 250g|rin tikki|rin tikki 250g|rin|rin 250g|rin bar 20 wala|rin bar rs20",SYNTHETIC
+SKU0131,Rin,Detergent Powder,,500,g,50,24,,detergent,"rin powder|rin powder 500g|rin surf|rin surf 500g|rin powder 50 wala|rin powder rs50",SYNTHETIC
+SKU0132,Rin,Detergent Powder,,1,kg,95,24,,detergent,"rin powder|rin powder 1kg|rin surf|rin surf 1kg",SYNTHETIC
+SKU0133,Wheel,Detergent Powder,Green,500,g,35,24,,detergent,"wheel|wheel 500g|wheel powder|wheel powder 500g|wheel green|wheel green 500g|wheel 35 wala|wheel rs35",SYNTHETIC
+SKU0134,Wheel,Detergent Powder,Green,1,kg,68,24,,detergent,"wheel|wheel 1kg|wheel powder|wheel powder 1kg|wheel green|wheel green 1kg",SYNTHETIC
+SKU0135,Ghadi,Detergent Powder,,500,g,30,24,,detergent,"ghadi|ghadi 500g|ghari|ghari 500g|ghadi surf|ghadi surf 500g|ghadi 30 wala|ghadi rs30",SYNTHETIC
+SKU0136,Ghadi,Detergent Powder,,1,kg,60,24,,detergent,"ghadi|ghadi 1kg|ghari|ghari 1kg|ghadi surf|ghadi surf 1kg",SYNTHETIC
+SKU0137,Nirma,Washing Powder,,500,g,28,24,,detergent,"nirma|nirma 500g|nirma powder|nirma powder 500g|nirma 28 wala|nirma rs28",SYNTHETIC
+SKU0138,Nirma,Washing Powder,,1,kg,55,24,,detergent,"nirma|nirma 1kg|nirma powder|nirma powder 1kg",SYNTHETIC
+SKU0139,Vim,Dishwash Bar,Lemon,85,g,10,144,,dishwash,"vim bar|vim bar 85g|vim|vim 85g|vim tikki|vim tikki 85g|vim bar 10 wala|vim bar rs10",SYNTHETIC
+SKU0140,Vim,Dishwash Bar,Lemon,200,g,22,60,,dishwash,"vim bar|vim bar 200g|vim|vim 200g|vim tikki|vim tikki 200g|vim bar 22 wala|vim bar rs22",SYNTHETIC
+SKU0141,Vim,Dishwash Liquid Gel,Lemon,250,ml,55,24,,dishwash,"vim gel|vim gel 250ml|vim liquid|vim liquid 250ml|vim gel 55 wala|vim gel rs55",SYNTHETIC
+SKU0142,Vim,Dishwash Liquid Gel,Lemon,500,ml,105,24,,dishwash,"vim gel|vim gel 500ml|vim liquid|vim liquid 500ml|vim gel 105 wala|vim gel rs105",SYNTHETIC
+SKU0143,Exo,Dishwash Bar,,90,g,10,144,,dishwash,"exo|exo 90g|exo bar|exo bar 90g|exo 10 wala|exo rs10",SYNTHETIC
+SKU0144,Exo,Dishwash Bar,,200,g,22,60,,dishwash,"exo|exo 200g|exo bar|exo bar 200g|exo 22 wala|exo rs22",SYNTHETIC
+SKU0145,Pril,Dishwash Liquid,,125,ml,30,48,,dishwash,"pril|pril 125ml|pril 30 wala|pril rs30",SYNTHETIC
+SKU0146,Pril,Dishwash Liquid,,425,ml,99,24,,dishwash,"pril|pril 425ml|pril 99 wala|pril rs99",SYNTHETIC
+SKU0147,Harpic,Toilet Cleaner,Original,200,ml,45,48,,home_care,"harpic|harpic 200ml|harpik|harpik 200ml|harpic 45 wala|harpic rs45",SYNTHETIC
+SKU0148,Harpic,Toilet Cleaner,Original,500,ml,99,24,,home_care,"harpic|harpic 500ml|harpik|harpik 500ml|harpic 99 wala|harpic rs99",SYNTHETIC
+SKU0149,Harpic,Toilet Cleaner,Original,1,L,190,12,,home_care,"harpic|harpic 1L|harpik|harpik 1L",SYNTHETIC
+SKU0150,Lizol,Floor Cleaner,Citrus,500,ml,109,24,,home_care,"lizol|lizol 500ml|lyzol|lyzol 500ml|lizol 109 wala|lizol rs109",SYNTHETIC
+SKU0151,Lizol,Floor Cleaner,Citrus,1,L,209,12,,home_care,"lizol|lizol 1L|lyzol|lyzol 1L",SYNTHETIC
+SKU0152,Lizol,Floor Cleaner,Floral,500,ml,109,24,,home_care,"lizol|lizol 500ml|lyzol|lyzol 500ml|lizol 109 wala|lizol rs109",SYNTHETIC
+SKU0153,Lizol,Floor Cleaner,Floral,1,L,209,12,,home_care,"lizol|lizol 1L|lyzol|lyzol 1L",SYNTHETIC
+SKU0154,Good Knight,Gold Flash Refill,,45,ml,85,48,,home_care,"good knight|good knight 45ml|goodknight|goodknight 45ml|gk refill|gk refill 45ml|good night refill|good night refill 45ml|good knight 85 wala|good knight rs85",SYNTHETIC
+SKU0155,All Out,Ultra Refill,,45,ml,85,48,,home_care,"all out|all out 45ml|allout|allout 45ml|all out refill|all out refill 45ml|all out 85 wala|all out rs85",SYNTHETIC
+SKU0156,Hit,Cockroach Spray,Red,200,ml,150,24,,home_care,"hit spray|hit spray 200ml|red hit|red hit 200ml|hit|hit 200ml|hit spray 150 wala|hit spray rs150",SYNTHETIC
+SKU0157,Hit,Cockroach Spray,Red,400,ml,249,12,,home_care,"hit spray|hit spray 400ml|red hit|red hit 400ml|hit|hit 400ml|hit spray 249 wala|hit spray rs249",SYNTHETIC
+SKU0158,Cycle,Three in One Agarbatti,,1,pcs,10,240,,home_care,"cycle agarbatti|cycle agarbatti 1pcs|cycle|cycle 1pcs|agarbatti cycle|agarbatti cycle 1pcs|cycle agarbatti 10 wala|cycle agarbatti rs10",SYNTHETIC
+SKU0159,Cycle,Three in One Agarbatti,,1,pack,60,48,,home_care,"cycle agarbatti|cycle agarbatti 1pack|cycle|cycle 1pack|agarbatti cycle|agarbatti cycle 1pack",SYNTHETIC
+SKU0160,Colgate,Strong Teeth Toothpaste,,20,g,10,288,,oral_care,"colgate|colgate 20g|colget|colget 20g|colgate paste|colgate paste 20g|colgate strong|colgate strong 20g|colgate 10 wala|colgate rs10",SYNTHETIC
+SKU0161,Colgate,Strong Teeth Toothpaste,,100,g,55,96,,oral_care,"colgate|colgate 100g|colget|colget 100g|colgate paste|colgate paste 100g|colgate strong|colgate strong 100g|colgate 55 wala|colgate rs55",SYNTHETIC
+SKU0162,Colgate,Strong Teeth Toothpaste,,200,g,105,48,,oral_care,"colgate|colgate 200g|colget|colget 200g|colgate paste|colgate paste 200g|colgate strong|colgate strong 200g|colgate 105 wala|colgate rs105",SYNTHETIC
+SKU0163,Colgate,MaxFresh Toothpaste,Peppermint Ice,80,g,65,96,,oral_care,"maxfresh|maxfresh 80g|max fresh|max fresh 80g|colgate maxfresh|colgate maxfresh 80g|maxfresh 65 wala|maxfresh rs65",SYNTHETIC
+SKU0164,Colgate,MaxFresh Toothpaste,Peppermint Ice,150,g,115,48,,oral_care,"maxfresh|maxfresh 150g|max fresh|max fresh 150g|colgate maxfresh|colgate maxfresh 150g|maxfresh 115 wala|maxfresh rs115",SYNTHETIC
+SKU0165,Pepsodent,Germicheck Toothpaste,,100,g,50,96,,oral_care,"pepsodent|pepsodent 100g|pepsodant|pepsodant 100g|pepsodent 50 wala|pepsodent rs50",SYNTHETIC
+SKU0166,Pepsodent,Germicheck Toothpaste,,200,g,95,48,,oral_care,"pepsodent|pepsodent 200g|pepsodant|pepsodant 200g|pepsodent 95 wala|pepsodent rs95",SYNTHETIC
+SKU0167,Close Up,Red Hot Gel Toothpaste,,80,g,60,96,,oral_care,"close up|close up 80g|closeup|closeup 80g|clos up|clos up 80g|close up 60 wala|close up rs60",SYNTHETIC
+SKU0168,Close Up,Red Hot Gel Toothpaste,,150,g,105,48,,oral_care,"close up|close up 150g|closeup|closeup 150g|clos up|clos up 150g|close up 105 wala|close up rs105",SYNTHETIC
+SKU0169,Dabur,Red Paste,,100,g,60,96,,oral_care,"dabur red|dabur red 100g|red paste|red paste 100g|dabur paste|dabur paste 100g|dabur red 60 wala|dabur red rs60",SYNTHETIC
+SKU0170,Dabur,Red Paste,,200,g,115,48,,oral_care,"dabur red|dabur red 200g|red paste|red paste 200g|dabur paste|dabur paste 200g|dabur red 115 wala|dabur red rs115",SYNTHETIC
+SKU0171,Sensodyne,Fresh Mint Toothpaste,,70,g,120,48,,oral_care,"sensodyne|sensodyne 70g|sensodine|sensodine 70g|sensodyne 120 wala|sensodyne rs120",SYNTHETIC
+SKU0172,Colgate,ZigZag Toothbrush,Medium,1,pcs,30,144,,oral_care,"colgate brush|colgate brush 1pcs|zigzag brush|zigzag brush 1pcs|colgate zig zag|colgate zig zag 1pcs|colgate brush 30 wala|colgate brush rs30",SYNTHETIC
+SKU0173,Clinic Plus,Strength & Shine Shampoo,,5.5,ml,1,960,16,hair_care,"clinic plus|clinic plus 5.5ml|clinic|clinic 5.5ml|clinic plus shampoo|clinic plus shampoo 5.5ml|clinic plus 1 wala|clinic plus rs1",SYNTHETIC
+SKU0174,Clinic Plus,Strength & Shine Shampoo,,175,ml,110,48,,hair_care,"clinic plus|clinic plus 175ml|clinic|clinic 175ml|clinic plus shampoo|clinic plus shampoo 175ml|clinic plus 110 wala|clinic plus rs110",SYNTHETIC
+SKU0175,Clinic Plus,Strength & Shine Shampoo,,340,ml,205,24,,hair_care,"clinic plus|clinic plus 340ml|clinic|clinic 340ml|clinic plus shampoo|clinic plus shampoo 340ml|clinic plus 205 wala|clinic plus rs205",SYNTHETIC
+SKU0176,Head & Shoulders,Anti-Dandruff Shampoo,Cool Menthol,6.5,ml,2,960,16,hair_care,"head and shoulders|head and shoulders 6.5ml|h&s|h&s 6.5ml|head shoulder|head shoulder 6.5ml|hns|hns 6.5ml|head and shoulders 2 wala|head and shoulders rs2",SYNTHETIC
+SKU0177,Head & Shoulders,Anti-Dandruff Shampoo,Cool Menthol,180,ml,180,48,,hair_care,"head and shoulders|head and shoulders 180ml|h&s|h&s 180ml|head shoulder|head shoulder 180ml|hns|hns 180ml|head and shoulders 180 wala|head and shoulders rs180",SYNTHETIC
+SKU0178,Head & Shoulders,Anti-Dandruff Shampoo,Smooth & Silky,6.5,ml,2,960,16,hair_care,"head and shoulders|head and shoulders 6.5ml|h&s|h&s 6.5ml|head shoulder|head shoulder 6.5ml|hns|hns 6.5ml|head and shoulders 2 wala|head and shoulders rs2",SYNTHETIC
+SKU0179,Head & Shoulders,Anti-Dandruff Shampoo,Smooth & Silky,180,ml,180,48,,hair_care,"head and shoulders|head and shoulders 180ml|h&s|h&s 180ml|head shoulder|head shoulder 180ml|hns|hns 180ml|head and shoulders 180 wala|head and shoulders rs180",SYNTHETIC
+SKU0180,Sunsilk,Black Shine Shampoo,,5.5,ml,1,960,16,hair_care,"sunsilk|sunsilk 5.5ml|sun silk|sun silk 5.5ml|sunsilk black|sunsilk black 5.5ml|sunsilk 1 wala|sunsilk rs1",SYNTHETIC
+SKU0181,Sunsilk,Black Shine Shampoo,,180,ml,140,48,,hair_care,"sunsilk|sunsilk 180ml|sun silk|sun silk 180ml|sunsilk black|sunsilk black 180ml|sunsilk 140 wala|sunsilk rs140",SYNTHETIC
+SKU0182,Pantene,Hair Fall Control Shampoo,,6,ml,2,960,16,hair_care,"pantene|pantene 6ml|pantin|pantin 6ml|pantene 2 wala|pantene rs2",SYNTHETIC
+SKU0183,Pantene,Hair Fall Control Shampoo,,180,ml,165,48,,hair_care,"pantene|pantene 180ml|pantin|pantin 180ml|pantene 165 wala|pantene rs165",SYNTHETIC
+SKU0184,Chik,Shampoo,Black,6,ml,1,960,16,hair_care,"chik|chik 6ml|chik shampoo|chik shampoo 6ml|chik 1 wala|chik rs1",SYNTHETIC
+SKU0185,Parachute,100% Pure Coconut Oil,,100,ml,48,96,,hair_care,"parachute|parachute 100ml|parachut|parachut 100ml|parachute oil|parachute oil 100ml|nariyal tel|nariyal tel 100ml|parachute 48 wala|parachute rs48",SYNTHETIC
+SKU0186,Parachute,100% Pure Coconut Oil,,250,ml,115,48,,hair_care,"parachute|parachute 250ml|parachut|parachut 250ml|parachute oil|parachute oil 250ml|nariyal tel|nariyal tel 250ml|parachute 115 wala|parachute rs115",SYNTHETIC
+SKU0187,Parachute,100% Pure Coconut Oil,,500,ml,215,24,,hair_care,"parachute|parachute 500ml|parachut|parachut 500ml|parachute oil|parachute oil 500ml|nariyal tel|nariyal tel 500ml|parachute 215 wala|parachute rs215",SYNTHETIC
+SKU0188,Dabur,Amla Hair Oil,,90,ml,42,96,,hair_care,"dabur amla|dabur amla 90ml|amla oil|amla oil 90ml|amla tel|amla tel 90ml|dabur amla 42 wala|dabur amla rs42",SYNTHETIC
+SKU0189,Dabur,Amla Hair Oil,,180,ml,80,48,,hair_care,"dabur amla|dabur amla 180ml|amla oil|amla oil 180ml|amla tel|amla tel 180ml|dabur amla 80 wala|dabur amla rs80",SYNTHETIC
+SKU0190,Navratna,Cool Oil,,100,ml,72,96,,hair_care,"navratna|navratna 100ml|navratan|navratan 100ml|navratna tel|navratna tel 100ml|navratna 72 wala|navratna rs72",SYNTHETIC
+SKU0191,Navratna,Cool Oil,,200,ml,135,48,,hair_care,"navratna|navratna 200ml|navratan|navratan 200ml|navratna tel|navratna tel 200ml|navratna 135 wala|navratna rs135",SYNTHETIC
+SKU0192,Glow & Lovely,Advanced Multivitamin Cream,,25,g,75,96,,skin_care,"glow and lovely|glow and lovely 25g|fair and lovely|fair and lovely 25g|fair & lovely|fair & lovely 25g|f&l|f&l 25g|glow and lovely 75 wala|glow and lovely rs75",SYNTHETIC
+SKU0193,Glow & Lovely,Advanced Multivitamin Cream,,50,g,140,48,,skin_care,"glow and lovely|glow and lovely 50g|fair and lovely|fair and lovely 50g|fair & lovely|fair & lovely 50g|f&l|f&l 50g|glow and lovely 140 wala|glow and lovely rs140",SYNTHETIC
+SKU0194,Vaseline,Petroleum Jelly,,42,ml,65,96,,skin_care,"vaseline|vaseline 42ml|vasline|vasline 42ml|vaseline 65 wala|vaseline rs65",SYNTHETIC
+SKU0195,Vaseline,Petroleum Jelly,,85,ml,120,48,,skin_care,"vaseline|vaseline 85ml|vasline|vasline 85ml|vaseline 120 wala|vaseline rs120",SYNTHETIC
+SKU0196,Boroplus,Antiseptic Cream,,19,ml,40,144,,skin_care,"boroplus|boroplus 19ml|boro plus|boro plus 19ml|boroline|boroline 19ml|boroplus 40 wala|boroplus rs40",SYNTHETIC
+SKU0197,Boroplus,Antiseptic Cream,,40,ml,85,96,,skin_care,"boroplus|boroplus 40ml|boro plus|boro plus 40ml|boroline|boroline 40ml|boroplus 85 wala|boroplus rs85",SYNTHETIC
+SKU0198,Nivea,Soft Light Moisturising Cream,,50,ml,115,48,,skin_care,"nivea|nivea 50ml|nivia|nivia 50ml|nivea soft|nivea soft 50ml|nivea 115 wala|nivea rs115",SYNTHETIC
+SKU0199,Nivea,Soft Light Moisturising Cream,,100,ml,210,24,,skin_care,"nivea|nivea 100ml|nivia|nivia 100ml|nivea soft|nivea soft 100ml|nivea 210 wala|nivea rs210",SYNTHETIC
+SKU0200,Ponds,Dreamflower Talc,,100,g,95,48,,skin_care,"ponds powder|ponds powder 100g|ponds talc|ponds talc 100g|ponds|ponds 100g|ponds powder 95 wala|ponds powder rs95",SYNTHETIC
+SKU0201,Ponds,Dreamflower Talc,,400,g,290,24,,skin_care,"ponds powder|ponds powder 400g|ponds talc|ponds talc 400g|ponds|ponds 400g|ponds powder 290 wala|ponds powder rs290",SYNTHETIC
+SKU0202,Whisper,Choice Sanitary Pads,Regular,6,pcs,40,72,,hygiene,"whisper|whisper 6pcs|whispr|whispr 6pcs|whisper 40 wala|whisper rs40",SYNTHETIC
+SKU0203,Whisper,Choice Sanitary Pads,Regular,20,pcs,120,24,,hygiene,"whisper|whisper 20pcs|whispr|whispr 20pcs|whisper 120 wala|whisper rs120",SYNTHETIC
+SKU0204,Whisper,Choice Sanitary Pads,XL,6,pcs,40,72,,hygiene,"whisper|whisper 6pcs|whispr|whispr 6pcs|whisper 40 wala|whisper rs40",SYNTHETIC
+SKU0205,Whisper,Choice Sanitary Pads,XL,20,pcs,120,24,,hygiene,"whisper|whisper 20pcs|whispr|whispr 20pcs|whisper 120 wala|whisper rs120",SYNTHETIC
+SKU0206,Stayfree,Secure Sanitary Pads,Regular,7,pcs,40,72,,hygiene,"stayfree|stayfree 7pcs|stay free|stay free 7pcs|stayfree 40 wala|stayfree rs40",SYNTHETIC
+SKU0207,Stayfree,Secure Sanitary Pads,Regular,20,pcs,115,24,,hygiene,"stayfree|stayfree 20pcs|stay free|stay free 20pcs|stayfree 115 wala|stayfree rs115",SYNTHETIC
+SKU0208,Pampers,Pants Diapers,S,2,pcs,20,96,,hygiene,"pampers|pampers 2pcs|pamper|pamper 2pcs|pampers 20 wala|pampers rs20",SYNTHETIC
+SKU0209,Pampers,Pants Diapers,S,30,pcs,499,6,,hygiene,"pampers|pampers 30pcs|pamper|pamper 30pcs|pampers 499 wala|pampers rs499",SYNTHETIC
+SKU0210,Pampers,Pants Diapers,M,2,pcs,20,96,,hygiene,"pampers|pampers 2pcs|pamper|pamper 2pcs|pampers 20 wala|pampers rs20",SYNTHETIC
+SKU0211,Pampers,Pants Diapers,M,30,pcs,499,6,,hygiene,"pampers|pampers 30pcs|pamper|pamper 30pcs|pampers 499 wala|pampers rs499",SYNTHETIC
+SKU0212,Pampers,Pants Diapers,L,2,pcs,20,96,,hygiene,"pampers|pampers 2pcs|pamper|pamper 2pcs|pampers 20 wala|pampers rs20",SYNTHETIC
+SKU0213,Pampers,Pants Diapers,L,30,pcs,499,6,,hygiene,"pampers|pampers 30pcs|pamper|pamper 30pcs|pampers 499 wala|pampers rs499",SYNTHETIC
+SKU0214,Aashirvaad,Shudh Chakki Atta,,1,kg,60,10,,staples,"aashirvaad|aashirvaad 1kg|ashirvad|ashirvad 1kg|ashirwad atta|ashirwad atta 1kg|aashirvaad atta|aashirvaad atta 1kg",SYNTHETIC
+SKU0215,Aashirvaad,Shudh Chakki Atta,,5,kg,270,4,,staples,"aashirvaad|aashirvaad 5kg|ashirvad|ashirvad 5kg|ashirwad atta|ashirwad atta 5kg|aashirvaad atta|aashirvaad atta 5kg",SYNTHETIC
+SKU0216,Aashirvaad,Shudh Chakki Atta,,10,kg,520,2,,staples,"aashirvaad|aashirvaad 10kg|ashirvad|ashirvad 10kg|ashirwad atta|ashirwad atta 10kg|aashirvaad atta|aashirvaad atta 10kg",SYNTHETIC
+SKU0217,Pillsbury,Chakki Fresh Atta,,5,kg,260,4,,staples,"pillsbury|pillsbury 5kg|pilsbury atta|pilsbury atta 5kg",SYNTHETIC
+SKU0218,Pillsbury,Chakki Fresh Atta,,10,kg,505,2,,staples,"pillsbury|pillsbury 10kg|pilsbury atta|pilsbury atta 10kg",SYNTHETIC
+SKU0219,Fortune,Chakki Fresh Atta,,5,kg,250,4,,staples,"fortune atta|fortune atta 5kg",SYNTHETIC
+SKU0220,Fortune,Chakki Fresh Atta,,10,kg,490,2,,staples,"fortune atta|fortune atta 10kg",SYNTHETIC
+SKU0221,Tata,Salt,Iodised,1,kg,28,50,,staples,"tata salt|tata salt 1kg|tata namak|tata namak 1kg|namak tata|namak tata 1kg",SYNTHETIC
+SKU0222,Tata,Salt Lite,,1,kg,45,50,,staples,"tata salt lite|tata salt lite 1kg|salt lite|salt lite 1kg",SYNTHETIC
+SKU0223,Fortune,Soya Health Refined Soyabean Oil,,1,L,155,12,,staples,"fortune oil|fortune oil 1L|fortune soya|fortune soya 1L|fortune soyabean|fortune soyabean 1L",SYNTHETIC
+SKU0224,Fortune,Soya Health Refined Soyabean Oil,,5,L,740,4,,staples,"fortune oil|fortune oil 5L|fortune soya|fortune soya 5L|fortune soyabean|fortune soyabean 5L",SYNTHETIC
+SKU0225,Fortune,Kachi Ghani Mustard Oil,,1,L,175,12,,staples,"fortune mustard|fortune mustard 1L|fortune sarso|fortune sarso 1L|sarson tel fortune|sarson tel fortune 1L",SYNTHETIC
+SKU0226,Fortune,Kachi Ghani Mustard Oil,,5,L,840,4,,staples,"fortune mustard|fortune mustard 5L|fortune sarso|fortune sarso 5L|sarson tel fortune|sarson tel fortune 5L",SYNTHETIC
+SKU0227,Saffola,Gold Edible Oil,,1,L,195,12,,staples,"saffola|saffola 1L|safola|safola 1L|saffola gold|saffola gold 1L",SYNTHETIC
+SKU0228,Saffola,Gold Edible Oil,,5,L,950,4,,staples,"saffola|saffola 5L|safola|safola 5L|saffola gold|saffola gold 5L",SYNTHETIC
+SKU0229,Dhara,Kachi Ghani Mustard Oil,,1,L,170,12,,staples,"dhara|dhara 1L|dhara sarso|dhara sarso 1L",SYNTHETIC
+SKU0230,Everest,Garam Masala,,50,g,48,120,,staples,"everest garam masala|everest garam masala 50g|everest garam|everest garam 50g|everest garam masala 48 wala|everest garam masala rs48",SYNTHETIC
+SKU0231,Everest,Garam Masala,,100,g,92,60,,staples,"everest garam masala|everest garam masala 100g|everest garam|everest garam 100g|everest garam masala 92 wala|everest garam masala rs92",SYNTHETIC
+SKU0232,Everest,Kitchen King Masala,,50,g,45,120,,staples,"kitchen king|kitchen king 50g|everest kk|everest kk 50g|kitchen king 45 wala|kitchen king rs45",SYNTHETIC
+SKU0233,Everest,Kitchen King Masala,,100,g,88,60,,staples,"kitchen king|kitchen king 100g|everest kk|everest kk 100g|kitchen king 88 wala|kitchen king rs88",SYNTHETIC
+SKU0234,MDH,Chana Masala,,100,g,80,60,,staples,"mdh chana|mdh chana 100g|mdh chana masala|mdh chana masala 100g|mdh chana 80 wala|mdh chana rs80",SYNTHETIC
+SKU0235,MDH,Deggi Mirch,,100,g,85,60,,staples,"deggi mirch|deggi mirch 100g|mdh deggi|mdh deggi 100g|degi mirch|degi mirch 100g|deggi mirch 85 wala|deggi mirch rs85",SYNTHETIC
+SKU0236,Everest,Turmeric Powder,,100,g,38,60,,staples,"everest haldi|everest haldi 100g|haldi everest|haldi everest 100g|everest turmeric|everest turmeric 100g|everest haldi 38 wala|everest haldi rs38",SYNTHETIC
+SKU0237,Everest,Turmeric Powder,,200,g,72,40,,staples,"everest haldi|everest haldi 200g|haldi everest|haldi everest 200g|everest turmeric|everest turmeric 200g|everest haldi 72 wala|everest haldi rs72",SYNTHETIC
+SKU0238,Lay's,Potato Chips,Classic Salted,26,g,10,72,,snacks,"lays|lays 26g|lay's|lay's 26g|lays chips|lays chips 26g|yellow lays|yellow lays 26g|lays yellow|lays yellow 26g|lays salted|lays salted 26g|lays 10 wala|lays rs10",SYNTHETIC
+SKU0239,Lay's,Potato Chips,Classic Salted,52,g,20,48,,snacks,"lays|lays 52g|lay's|lay's 52g|lays chips|lays chips 52g|yellow lays|yellow lays 52g|lays yellow|lays yellow 52g|lays salted|lays salted 52g|lays 20 wala|lays rs20",SYNTHETIC
+SKU0240,Lay's,Potato Chips,Magic Masala,26,g,10,72,,snacks,"lays|lays 26g|lay's|lay's 26g|lays chips|lays chips 26g|blue lays|blue lays 26g|lays blue|lays blue 26g|lays masala|lays masala 26g|lays 10 wala|lays rs10",SYNTHETIC
+SKU0241,Lay's,Potato Chips,Magic Masala,52,g,20,48,,snacks,"lays|lays 52g|lay's|lay's 52g|lays chips|lays chips 52g|blue lays|blue lays 52g|lays blue|lays blue 52g|lays masala|lays masala 52g|lays 20 wala|lays rs20",SYNTHETIC
+SKU0242,Lay's,Potato Chips,Cream & Onion,26,g,10,72,,snacks,"lays|lays 26g|lay's|lay's 26g|lays chips|lays chips 26g|green lays|green lays 26g|lays green|lays green 26g|lays 10 wala|lays rs10",SYNTHETIC
+SKU0243,Lay's,Potato Chips,Cream & Onion,52,g,20,48,,snacks,"lays|lays 52g|lay's|lay's 52g|lays chips|lays chips 52g|green lays|green lays 52g|lays green|lays green 52g|lays 20 wala|lays rs20",SYNTHETIC
+SKU0244,Kurkure,Masala Munch,,30,g,10,72,,snacks,"kurkure|kurkure 30g|kurkurey|kurkurey 30g|kurkre|kurkre 30g|kurkure 10 wala|kurkure rs10",SYNTHETIC
+SKU0245,Kurkure,Masala Munch,,90,g,30,36,,snacks,"kurkure|kurkure 90g|kurkurey|kurkurey 90g|kurkre|kurkre 90g|kurkure 30 wala|kurkure rs30",SYNTHETIC
+SKU0246,Bingo,Mad Angles,Achaari Masti,33,g,10,72,,snacks,"mad angles|mad angles 33g|bingo|bingo 33g|bingo mad angles|bingo mad angles 33g|mad angles 10 wala|mad angles rs10",SYNTHETIC
+SKU0247,Bingo,Mad Angles,Achaari Masti,66,g,20,48,,snacks,"mad angles|mad angles 66g|bingo|bingo 66g|bingo mad angles|bingo mad angles 66g|mad angles 20 wala|mad angles rs20",SYNTHETIC
+SKU0248,Haldiram's,Aloo Bhujia,,40,g,10,96,,snacks,"haldiram bhujia|haldiram bhujia 40g|aloo bhujia|aloo bhujia 40g|haldiram aloo bhujia|haldiram aloo bhujia 40g|bhujia|bhujia 40g|haldiram bhujia 10 wala|haldiram bhujia rs10",SYNTHETIC
+SKU0249,Haldiram's,Aloo Bhujia,,200,g,55,30,,snacks,"haldiram bhujia|haldiram bhujia 200g|aloo bhujia|aloo bhujia 200g|haldiram aloo bhujia|haldiram aloo bhujia 200g|bhujia|bhujia 200g|haldiram bhujia 55 wala|haldiram bhujia rs55",SYNTHETIC
+SKU0250,Haldiram's,Aloo Bhujia,,400,g,105,20,,snacks,"haldiram bhujia|haldiram bhujia 400g|aloo bhujia|aloo bhujia 400g|haldiram aloo bhujia|haldiram aloo bhujia 400g|bhujia|bhujia 400g|haldiram bhujia 105 wala|haldiram bhujia rs105",SYNTHETIC
+SKU0251,Haldiram's,Moong Dal,,40,g,10,96,,snacks,"haldiram moong dal|haldiram moong dal 40g|moong dal namkeen|moong dal namkeen 40g|haldiram moong dal 10 wala|haldiram moong dal rs10",SYNTHETIC
+SKU0252,Haldiram's,Moong Dal,,200,g,55,30,,snacks,"haldiram moong dal|haldiram moong dal 200g|moong dal namkeen|moong dal namkeen 200g|haldiram moong dal 55 wala|haldiram moong dal rs55",SYNTHETIC
+SKU0253,Cadbury,Dairy Milk,,13.2,g,10,280,,chocolates,"dairy milk|dairy milk 13.2g|dairymilk|dairymilk 13.2g|dm|dm 13.2g|cadbury|cadbury 13.2g|dairy milk 10 wala|dairy milk rs10",SYNTHETIC
+SKU0254,Cadbury,Dairy Milk,,23,g,20,200,,chocolates,"dairy milk|dairy milk 23g|dairymilk|dairymilk 23g|dm|dm 23g|cadbury|cadbury 23g|dairy milk 20 wala|dairy milk rs20",SYNTHETIC
+SKU0255,Cadbury,Dairy Milk,,50,g,50,120,,chocolates,"dairy milk|dairy milk 50g|dairymilk|dairymilk 50g|dm|dm 50g|cadbury|cadbury 50g|dairy milk 50 wala|dairy milk rs50",SYNTHETIC
+SKU0256,Cadbury,5 Star,,11,g,5,360,,chocolates,"5 star|5 star 11g|five star|five star 11g|5star|5star 11g|5 star 5 wala|5 star rs5",SYNTHETIC
+SKU0257,Cadbury,5 Star,,22,g,10,240,,chocolates,"5 star|5 star 22g|five star|five star 22g|5star|5star 22g|5 star 10 wala|5 star rs10",SYNTHETIC
+SKU0258,Nestle,KitKat,,13.5,g,10,280,,chocolates,"kitkat|kitkat 13.5g|kit kat|kit kat 13.5g|kitkat 10 wala|kitkat rs10",SYNTHETIC
+SKU0259,Nestle,KitKat,,37.3,g,30,120,,chocolates,"kitkat|kitkat 37.3g|kit kat|kit kat 37.3g|kitkat 30 wala|kitkat rs30",SYNTHETIC
+SKU0260,Cadbury,Perk,,13,g,5,360,,chocolates,"perk|perk 13g|perk 5 wala|perk rs5",SYNTHETIC
+SKU0261,Nestle,Munch,,8.9,g,5,360,,chocolates,"munch|munch 8.9g|munch 5 wala|munch rs5",SYNTHETIC
+SKU0262,Nestle,Munch,,23,g,10,240,,chocolates,"munch|munch 23g|munch 10 wala|munch rs10",SYNTHETIC
+SKU0263,Mondelez,Eclairs Toffee,,1,pack,100,24,,chocolates,"eclairs|eclairs 1pack|eclair|eclair 1pack|cadbury eclairs|cadbury eclairs 1pack",SYNTHETIC
+SKU0264,Amul,Pasteurised Butter,,100,g,58,60,,dairy,"amul butter|amul butter 100g|butter amul|butter amul 100g|amul butter 58 wala|amul butter rs58",SYNTHETIC
+SKU0265,Amul,Pasteurised Butter,,500,g,285,20,,dairy,"amul butter|amul butter 500g|butter amul|butter amul 500g|amul butter 285 wala|amul butter rs285",SYNTHETIC
+SKU0266,Amul,Processed Cheese Slices,,200,g,150,30,,dairy,"amul cheese|amul cheese 200g|cheese slice|cheese slice 200g|amul cheese 150 wala|amul cheese rs150",SYNTHETIC
+SKU0267,Amul,Pure Ghee,,500,ml,330,24,,dairy,"amul ghee|amul ghee 500ml|amul ghee 330 wala|amul ghee rs330",SYNTHETIC
+SKU0268,Amul,Pure Ghee,,1,L,640,12,,dairy,"amul ghee|amul ghee 1L",SYNTHETIC
+SKU0269,Nestle,Everyday Dairy Whitener,,200,g,110,48,,dairy,"everyday|everyday 200g|nestle everyday|nestle everyday 200g|milk powder everyday|milk powder everyday 200g|everyday 110 wala|everyday rs110",SYNTHETIC
+SKU0270,Nestle,Everyday Dairy Whitener,,400,g,215,24,,dairy,"everyday|everyday 400g|nestle everyday|nestle everyday 400g|milk powder everyday|milk powder everyday 400g|everyday 215 wala|everyday rs215",SYNTHETIC
+SKU0271,Britannia,Milk Bikis,,90,g,10,96,,biscuits,"milk bikis|milk bikis 90g|milk bikies|milk bikies 90g|bikis|bikis 90g|milk bikis 10 wala|milk bikis rs10",SYNTHETIC
+SKU0272,Britannia,Milk Bikis,,200,g,30,36,,biscuits,"milk bikis|milk bikis 200g|milk bikies|milk bikies 200g|bikis|bikis 200g|milk bikis 30 wala|milk bikis rs30",SYNTHETIC
+SKU0273,Britannia,Tiger Glucose,,60,g,5,144,,biscuits,"tiger|tiger 60g|tiger biscuit|tiger biscuit 60g|tiger 5 wala|tiger rs5",SYNTHETIC
+SKU0274,Britannia,Tiger Glucose,,150,g,10,96,,biscuits,"tiger|tiger 150g|tiger biscuit|tiger biscuit 150g|tiger 10 wala|tiger rs10",SYNTHETIC
+SKU0275,Sunfeast,Mom's Magic,Cashew & Almond,75,g,10,96,,biscuits,"moms magic|moms magic 75g|mom's magic|mom's magic 75g|mm biscuit|mm biscuit 75g|moms magic 10 wala|moms magic rs10",SYNTHETIC
+SKU0276,Sunfeast,Mom's Magic,Cashew & Almond,200,g,35,36,,biscuits,"moms magic|moms magic 200g|mom's magic|mom's magic 200g|mm biscuit|mm biscuit 200g|moms magic 35 wala|moms magic rs35",SYNTHETIC
+SKU0277,Sunfeast,Mom's Magic,Butter,75,g,10,96,,biscuits,"moms magic|moms magic 75g|mom's magic|mom's magic 75g|mm biscuit|mm biscuit 75g|moms magic 10 wala|moms magic rs10",SYNTHETIC
+SKU0278,Sunfeast,Mom's Magic,Butter,200,g,35,36,,biscuits,"moms magic|moms magic 200g|mom's magic|mom's magic 200g|mm biscuit|mm biscuit 200g|moms magic 35 wala|moms magic rs35",SYNTHETIC
+SKU0279,Patanjali,Dant Kanti Toothpaste,,100,g,55,96,,oral_care,"dant kanti|dant kanti 100g|dantkanti|dantkanti 100g|patanjali paste|patanjali paste 100g|dant kanti 55 wala|dant kanti rs55",SYNTHETIC
+SKU0280,Patanjali,Dant Kanti Toothpaste,,200,g,106,48,,oral_care,"dant kanti|dant kanti 200g|dantkanti|dantkanti 200g|patanjali paste|patanjali paste 200g|dant kanti 106 wala|dant kanti rs106",SYNTHETIC
+SKU0281,Patanjali,Cow Ghee,,500,ml,330,24,,staples,"patanjali ghee|patanjali ghee 500ml|patanjali cow ghee|patanjali cow ghee 500ml|patanjali ghee 330 wala|patanjali ghee rs330",SYNTHETIC
+SKU0282,Patanjali,Cow Ghee,,1,L,640,12,,staples,"patanjali ghee|patanjali ghee 1L|patanjali cow ghee|patanjali cow ghee 1L",SYNTHETIC
+SKU0283,Dabur,Honey,,250,g,125,24,,staples,"dabur honey|dabur honey 250g|dabur shahad|dabur shahad 250g|shahad|shahad 250g|dabur honey 125 wala|dabur honey rs125",SYNTHETIC
+SKU0284,Dabur,Honey,,500,g,235,12,,staples,"dabur honey|dabur honey 500g|dabur shahad|dabur shahad 500g|shahad|shahad 500g|dabur honey 235 wala|dabur honey rs235",SYNTHETIC
+SKU0285,Real,Fruit Power Juice,Mixed Fruit,1,L,125,12,,beverages_cold,"real juice|real juice 1L|real|real 1L",SYNTHETIC
+SKU0286,Real,Fruit Power Juice,Orange,1,L,125,12,,beverages_cold,"real juice|real juice 1L|real|real 1L",SYNTHETIC
+SKU0287,Lijjat,Papad,Punjabi Masala,200,g,70,40,,staples,"lijjat|lijjat 200g|lijjat papad|lijjat papad 200g|papad|papad 200g|lijjat 70 wala|lijjat rs70",SYNTHETIC
+SKU0288,Kellogg's,Corn Flakes,,250,g,110,24,,staples,"kelloggs|kelloggs 250g|corn flakes|corn flakes 250g|cornflakes|cornflakes 250g|kelloggs 110 wala|kelloggs rs110",SYNTHETIC
+SKU0289,Kellogg's,Corn Flakes,,475,g,200,12,,staples,"kelloggs|kelloggs 475g|corn flakes|corn flakes 475g|cornflakes|cornflakes 475g|kelloggs 200 wala|kelloggs rs200",SYNTHETIC
+SKU0290,Glucon-D,Instant Energy Drink,Regular,125,g,40,72,,beverages_hot,"glucon d|glucon d 125g|glucond|glucond 125g|glucose d|glucose d 125g|glucon d 40 wala|glucon d rs40",SYNTHETIC
+SKU0291,Glucon-D,Instant Energy Drink,Regular,500,g,145,24,,beverages_hot,"glucon d|glucon d 500g|glucond|glucond 500g|glucose d|glucose d 500g|glucon d 145 wala|glucon d rs145",SYNTHETIC
+SKU0292,Glucon-D,Instant Energy Drink,Orange,125,g,40,72,,beverages_hot,"glucon d|glucon d 125g|glucond|glucond 125g|glucose d|glucose d 125g|glucon d 40 wala|glucon d rs40",SYNTHETIC
+SKU0293,Glucon-D,Instant Energy Drink,Orange,500,g,145,24,,beverages_hot,"glucon d|glucon d 500g|glucond|glucond 500g|glucose d|glucose d 500g|glucon d 145 wala|glucon d rs145",SYNTHETIC
+SKU0294,Eno,Fruit Salt,Regular,5,g,10,432,6,otc,"eno|eno 5g|eno sachet|eno sachet 5g|eno 10 wala|eno rs10",SYNTHETIC
+SKU0295,Eno,Fruit Salt,Lemon,5,g,10,432,6,otc,"eno|eno 5g|eno sachet|eno sachet 5g|eno 10 wala|eno rs10",SYNTHETIC
+SKU0296,Vicks,VapoRub,,5,ml,22,240,,otc,"vicks|vicks 5ml|viks|viks 5ml|vicks balm|vicks balm 5ml|vicks 22 wala|vicks rs22",SYNTHETIC
+SKU0297,Vicks,VapoRub,,25,ml,95,96,,otc,"vicks|vicks 25ml|viks|viks 25ml|vicks balm|vicks balm 25ml|vicks 95 wala|vicks rs95",SYNTHETIC
+SKU0298,Odonil,Air Freshener Block,Lavender,50,g,55,96,,home_care,"odonil|odonil 50g|odonil 55 wala|odonil rs55",SYNTHETIC
+SKU0299,Colin,Glass Cleaner,,500,ml,115,24,,home_care,"colin|colin 500ml|colin spray|colin spray 500ml|colin 115 wala|colin rs115",SYNTHETIC

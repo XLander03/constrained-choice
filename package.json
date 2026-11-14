@@ -1,0 +1,19 @@
+{
+  "name": "decision-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Distributor WhatsApp/email order -> SKU order lines, using a decision model (OpenAI Decisions API) over a retrieved shortlist. SYNTHETIC data only.",
+  "type": "module",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "gen:catalog": "node scripts/gen-catalog.ts",
+    "gen:orders": "node scripts/gen-orders.ts",
+    "eval": "node src/eval/run.ts --adapter mock",
+    "eval:openai": "node src/eval/run.ts --adapter openai",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}
